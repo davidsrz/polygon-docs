@@ -2,1690 +2,1834 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
+    </url>
+    <url>
+         <loc>https://davidsrz.github.io/polygon-docs/agglayer/overview/</loc>
+         <lastmod>2025-07-22</lastmod>
+    </url>
+    <url>
+         <loc>https://davidsrz.github.io/polygon-docs/agglayer/additional-resources/</loc>
+         <lastmod>2025-07-22</lastmod>
+    </url>
+    <url>
+         <loc>https://davidsrz.github.io/polygon-docs/agglayer/additional-resources/connected-chains/</loc>
+         <lastmod>2025-07-22</lastmod>
+    </url>
+    <url>
+         <loc>https://davidsrz.github.io/polygon-docs/agglayer/core-concepts/</loc>
+         <lastmod>2025-07-22</lastmod>
+    </url>
+    <url>
+         <loc>https://davidsrz.github.io/polygon-docs/agglayer/core-concepts/architecture/</loc>
+         <lastmod>2025-07-22</lastmod>
+    </url>
+    <url>
+         <loc>https://davidsrz.github.io/polygon-docs/agglayer/core-concepts/connecting-chains/</loc>
+         <lastmod>2025-07-22</lastmod>
+    </url>
+    <url>
+         <loc>https://davidsrz.github.io/polygon-docs/agglayer/core-concepts/pessimistic-proof/</loc>
+         <lastmod>2025-07-22</lastmod>
+    </url>
+    <url>
+         <loc>https://davidsrz.github.io/polygon-docs/agglayer/core-concepts/state-transition-proof/</loc>
+         <lastmod>2025-07-22</lastmod>
+    </url>
+    <url>
+         <loc>https://davidsrz.github.io/polygon-docs/agglayer/core-concepts/unified-bridge/</loc>
+         <lastmod>2025-07-22</lastmod>
+    </url>
+    <url>
+         <loc>https://davidsrz.github.io/polygon-docs/agglayer/get-started/</loc>
+         <lastmod>2025-07-22</lastmod>
+    </url>
+    <url>
+         <loc>https://davidsrz.github.io/polygon-docs/agglayer/get-started/bridge-assets/</loc>
+         <lastmod>2025-07-22</lastmod>
+    </url>
+    <url>
+         <loc>https://davidsrz.github.io/polygon-docs/agglayer/how-to/</loc>
+         <lastmod>2025-07-22</lastmod>
+    </url>
+    <url>
+         <loc>https://davidsrz.github.io/polygon-docs/agglayer/how-to/agglayer_transfer_guide/</loc>
+         <lastmod>2025-07-22</lastmod>
+    </url>
+    <url>
+         <loc>https://davidsrz.github.io/polygon-docs/agglayer/how-to/call-contract/</loc>
+         <lastmod>2025-07-22</lastmod>
+    </url>
+    <url>
+         <loc>https://davidsrz.github.io/polygon-docs/agglayer/how-to/transfer-and-call/</loc>
+         <lastmod>2025-07-22</lastmod>
+    </url>
+    <url>
+         <loc>https://davidsrz.github.io/polygon-docs/agglayer/how-to/transfer-asset/</loc>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/cdk/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/cdk/overview/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
+    </url>
+    <url>
+         <loc>https://davidsrz.github.io/polygon-docs/cdk/additional-resources/faqs/</loc>
+         <lastmod>2025-07-22</lastmod>
+    </url>
+    <url>
+         <loc>https://davidsrz.github.io/polygon-docs/cdk/additional-resources/glossary/</loc>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/cdk/architecture/cdk-pp-highlevel-arch/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/cdk/architecture/cdk-validium/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/cdk/architecture/cdk-zkevm/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/cdk/architecture/high-level-views/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/cdk/architecture/staking-the-bridge/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/cdk/architecture/type-1-prover/intro-t1-prover/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/cdk/architecture/type-1-prover/t1-architecture/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/cdk/architecture/type-1-prover/t1-cpu-component/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/cdk/architecture/type-1-prover/t1-ctl-protocol/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/cdk/architecture/type-1-prover/t1-design-challenge/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/cdk/architecture/type-1-prover/t1-rangechecks/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/cdk/architecture/type-1-prover/testing-and-proving-costs/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
+    </url>
+    <url>
+         <loc>https://davidsrz.github.io/polygon-docs/cdk/cdk-erigon/architecture/</loc>
+         <lastmod>2025-07-22</lastmod>
+    </url>
+    <url>
+         <loc>https://davidsrz.github.io/polygon-docs/cdk/cdk-erigon/local-deployment/</loc>
+         <lastmod>2025-07-22</lastmod>
+    </url>
+    <url>
+         <loc>https://davidsrz.github.io/polygon-docs/cdk/cdk-erigon/use-native-token/</loc>
+         <lastmod>2025-07-22</lastmod>
+    </url>
+    <url>
+         <loc>https://davidsrz.github.io/polygon-docs/cdk/cdk-erigon/migrate/fork/</loc>
+         <lastmod>2025-07-22</lastmod>
+    </url>
+    <url>
+         <loc>https://davidsrz.github.io/polygon-docs/cdk/cdk-erigon/migrate/forkid-7-to-9/</loc>
+         <lastmod>2025-07-22</lastmod>
+    </url>
+    <url>
+         <loc>https://davidsrz.github.io/polygon-docs/cdk/cdk-erigon/migrate/forkid-9-12/</loc>
+         <lastmod>2025-07-22</lastmod>
+    </url>
+    <url>
+         <loc>https://davidsrz.github.io/polygon-docs/cdk/cdk-opgeth/architecture/</loc>
+         <lastmod>2025-07-22</lastmod>
+    </url>
+    <url>
+         <loc>https://davidsrz.github.io/polygon-docs/cdk/cdk-opgeth/devnet-deployment-guide/</loc>
+         <lastmod>2025-07-22</lastmod>
+    </url>
+    <url>
+         <loc>https://davidsrz.github.io/polygon-docs/cdk/cdk-opgeth/local-guide/</loc>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/cdk/concepts/admin-upgradeability/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/cdk/concepts/architecture/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/cdk/concepts/blocks/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/cdk/concepts/bridging/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/cdk/concepts/full-execution-proofs/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/cdk/concepts/gas-fees/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/cdk/concepts/layer2s/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/cdk/concepts/pessimistic-proofs/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/cdk/concepts/rollup-vs-validium/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/cdk/concepts/transaction-finality/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/cdk/concepts/transaction-lifecycle/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/cdk/concepts/zk-vs-optimistic/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
+    </url>
+    <url>
+         <loc>https://davidsrz.github.io/polygon-docs/cdk/get-started/benefits/</loc>
+         <lastmod>2025-07-22</lastmod>
+    </url>
+    <url>
+         <loc>https://davidsrz.github.io/polygon-docs/cdk/get-started/overview/</loc>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/cdk/glossary/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/cdk/how-to/connect-testnet/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/cdk/how-to/deploy-t1-prover-devnet/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/cdk/how-to/deploy-t1-prover/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/cdk/how-to/integrate-da/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/cdk/how-to/manage-policies/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/cdk/how-to/quick-test-stack/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/cdk/how-to/use-native-token/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/cdk/releases/release-notes/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/cdk/resources/cdk-repo-reference/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/cdk/resources/third-party-guides/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/innovation-design/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/innovation-design/plonky/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/innovation-design/polygon-protocols/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/innovation-design/welcome/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/innovation-design/security/bugbounty/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/innovation-design/security/contact/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/innovation-design/security/disclosure/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/innovation-design/security/governance/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/innovation-design/security/hr/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/innovation-design/security/infrastructure/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/innovation-design/security/operations/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/innovation-design/security/overview/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/innovation-design/security/reports/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/innovation-design/security/risk/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/innovation-design/security/sdlc/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/innovation-design/security/smartcontracts/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/innovation-design/security/vulnerability/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/miden/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/overview/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/architecture/overview/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/architecture/bor/introduction/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/architecture/bor/network-config/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/architecture/bor/state-sync/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/architecture/heimdall/authentication/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/architecture/heimdall/balance-transfers/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/architecture/heimdall/chain-management/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/architecture/heimdall/checkpoints/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/architecture/heimdall/governance/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/architecture/heimdall/heimdall-and-bor/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/architecture/heimdall/introduction/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/architecture/heimdall/key-management/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/architecture/heimdall/staking/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/architecture/heimdall/topup/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/architecture/heimdall/validation/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/architecture/heimdall_v2/authentication/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/architecture/heimdall_v2/balance-transfers/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/architecture/heimdall_v2/chain-management/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/architecture/heimdall_v2/changes-from-v1/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/architecture/heimdall_v2/checkpoints/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/architecture/heimdall_v2/clerk/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/architecture/heimdall_v2/cosmos_sdk_rpc/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/architecture/heimdall_v2/governance/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/architecture/heimdall_v2/heimdall-bor-module/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/architecture/heimdall_v2/heimdallv2_rpc/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/architecture/heimdall_v2/introduction/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/architecture/heimdall_v2/milestones/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/architecture/heimdall_v2/staking/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/architecture/heimdall_v2/topup/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/concepts/tokens/matic-to-pol/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/concepts/tokens/matic/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/concepts/tokens/pol/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/concepts/transactions/eip-1559/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/concepts/transactions/eip-4337/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/concepts/transactions/meta-transactions/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/get-started/becoming-a-validator/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/get-started/building-on-polygon/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/governance/governance-fundamentals/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/how-to/delegate/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/how-to/erigon-archive-node/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/how-to/prerequisites/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/how-to/snapshots/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/how-to/bridging/ethereum-polygon/ethereum-to-matic/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/how-to/bridging/ethereum-polygon/matic-to-ethereum/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/how-to/bridging/ethereum-polygon/portal-ui/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/how-to/bridging/ethereum-polygon/submit-mapping-request/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/how-to/bridging/l1-l2-communication/state-transfer/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/how-to/full-node/full-node-ansible/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/how-to/full-node/full-node-binaries/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/how-to/full-node/full-node-docker/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/how-to/full-node/full-node-gcp/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/how-to/full-node/full-node-packages/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/how-to/operate-validator-node/change-signer-address/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/how-to/operate-validator-node/next-steps/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/how-to/operate-validator-node/topup-heimdall-fee/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/how-to/operate-validator-node/validator-performance/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/how-to/troubleshoot/known-issues/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/how-to/troubleshoot/reporting-issues/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/how-to/troubleshoot/technical-faqs/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/how-to/validator/validator-ansible/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/how-to/validator/validator-best-practices/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/how-to/validator/validator-binaries/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/how-to/validator/validator-packages/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/reference/commands/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/reference/commit-chain-multisigs/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/reference/mapped-tokens/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/reference/network-upgrade-process/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/reference/port-management/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/reference/rewards/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/reference/rpc-endpoints/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/reference/seed-and-bootnodes/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/reference/telemetry-setup-guide/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/reference/contracts/delegation/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/reference/contracts/genesis-contracts/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/pos/reference/contracts/stakingmanager/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/chain-indexer-framework/overview/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/chain-indexer-framework/usage/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/dApp-development/third-party-tutorials/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/dApp-development/common-tools/hardhat/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/dApp-development/common-tools/remix/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/dApp-development/common-tools/replit/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/dApp-development/launchpad/commands/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/dApp-development/launchpad/common-pitfalls/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/dApp-development/launchpad/contributing/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/dApp-development/launchpad/frontend/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/dApp-development/launchpad/intro/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/dApp-development/launchpad/quickstart/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/dApp-development/launchpad/smart-contracts/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/dApp-development/tutorials/access-node/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/data/thegraph/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/gas/matic-faucet/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/gas/polygon-gas-station/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/api-architecture/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/get-started/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/set-proof-api/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/advanced/abi-manager/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/advanced/exit-util/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/advanced/plugin/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/pos/client/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/pos/deposit-ether/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/pos/is-check-pointed/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/pos/is-deposited/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/pos/erc1155/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/pos/erc1155/approve-all-for-mintable/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/pos/erc1155/approve-all/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/pos/erc1155/deposit-many/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/pos/erc1155/deposit/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/pos/erc1155/get-balance/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/pos/erc1155/is-approved-all/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/pos/erc1155/is-withdraw-exited-many/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/pos/erc1155/is-withdraw-exited/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/pos/erc1155/transfer/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/pos/erc1155/withdraw-exit-faster-many/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/pos/erc1155/withdraw-exit-faster/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/pos/erc1155/withdraw-exit-many/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/pos/erc1155/withdraw-exit/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/pos/erc1155/withdraw-start-many/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/pos/erc1155/withdraw-start/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/pos/erc20/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/pos/erc20/approve-max/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/pos/erc20/approve/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/pos/erc20/deposit/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/pos/erc20/get-allowance/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/pos/erc20/get-balance/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/pos/erc20/is-withdraw-exited/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/pos/erc20/transfer/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/pos/erc20/withdraw-exit-faster/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/pos/erc20/withdraw-exit/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/pos/erc20/withdraw-start/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/pos/erc721/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/pos/erc721/approve-all/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/pos/erc721/approve/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/pos/erc721/deposit-many/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/pos/erc721/deposit/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/pos/erc721/get-all-tokens/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/pos/erc721/get-token-id-at-index-for-user/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/pos/erc721/get-tokens-count/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/pos/erc721/is-approved-all/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/pos/erc721/is-approved/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/pos/erc721/is-withdraw-exited-many/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/pos/erc721/is-withdraw-exited/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/pos/erc721/transfer/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/pos/erc721/withdraw-exit-faster-many/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/pos/erc721/withdraw-exit-faster/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/pos/erc721/withdraw-exit-many/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/pos/erc721/withdraw-exit/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/pos/erc721/withdraw-start-many/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/pos/erc721/withdraw-start-with-meta-data/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/pos/erc721/withdraw-start/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/setup/ethers/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/setup/web3js/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/zkevm/common-methods/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/zkevm/erc20/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/zkevm/initialize/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/matic-js/zkevm/message-passing/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/oracles/chainlink/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/oracles/chronicle/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/oracles/getting-started/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/storage/crusthelpers/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/storage/filecoinhelpers/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/storage/ipfs/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/wallets/appkit/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/wallets/getting-started/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/wallets/portal/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/wallets/reown/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/wallets/walletconnect/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/wallets/walletkit/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/wallets/metamask/add-polygon-network/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/tools/wallets/metamask/overview/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
+    </url>
+    <url>
+         <loc>https://davidsrz.github.io/polygon-docs/vault-bridge/api-reference/</loc>
+         <lastmod>2025-07-22</lastmod>
+    </url>
+    <url>
+         <loc>https://davidsrz.github.io/polygon-docs/vault-bridge/architecture/</loc>
+         <lastmod>2025-07-22</lastmod>
+    </url>
+    <url>
+         <loc>https://davidsrz.github.io/polygon-docs/vault-bridge/contracts/</loc>
+         <lastmod>2025-07-22</lastmod>
+    </url>
+    <url>
+         <loc>https://davidsrz.github.io/polygon-docs/vault-bridge/faq/</loc>
+         <lastmod>2025-07-22</lastmod>
+    </url>
+    <url>
+         <loc>https://davidsrz.github.io/polygon-docs/vault-bridge/getting-started/</loc>
+         <lastmod>2025-07-22</lastmod>
+    </url>
+    <url>
+         <loc>https://davidsrz.github.io/polygon-docs/vault-bridge/integration-guide/</loc>
+         <lastmod>2025-07-22</lastmod>
+    </url>
+    <url>
+         <loc>https://davidsrz.github.io/polygon-docs/vault-bridge/overview/</loc>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/overview/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/data-streamer/bookmarks/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/data-streamer/client-server-messages/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/data-streamer/data-streamer-design/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/data-streamer/data-streamer-protocols/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/data-streamer/how-rollbacks-work/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/data-streamer/server-source-library/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/data-streamer/stream-file/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/effective-gas/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/effective-gas/implement-egp-strat/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/effective-gas/tx-prioritization-egp/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/effective-gas/zkevm-egp-strat/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/effective-gas/user-tx-flow/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/effective-gas/user-tx-flow/rpc-flow-egp/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/effective-gas/user-tx-flow/sequencer-flow-egp/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/high-level/smart-contracts/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/high-level/smart-contracts/addresses/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/high-level/smart-contracts/exit-roots/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/high-level/smart-contracts/main-contracts/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/high-level/smart-contracts/sequencing/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/high-level/smart-contracts/verification/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/high-level/smart-contracts/api/PolygonRollupManager/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/high-level/smart-contracts/api/PolygonZkEVMBridgeV2/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/high-level/smart-contracts/api/PolygonZkEVMGlobalExitRootV2/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/high-level/smart-contracts/api/consensus/dataComittee/CDKDataCommittee/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/high-level/smart-contracts/api/consensus/dataComittee/PolygonDataComittee/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/high-level/smart-contracts/api/consensus/validium/PolygonDataCommittee/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/high-level/smart-contracts/api/consensus/validium/PolygonValidiumEtrog/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/high-level/smart-contracts/api/consensus/validium/migration/PolygonRollupBaseEtrogNoGap/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/high-level/smart-contracts/api/consensus/validium/migration/PolygonValidiumStorageMigration/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/high-level/smart-contracts/api/consensus/zkEVM/PolygonZkEVMEtrog/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/high-level/smart-contracts/api/consensus/zkEVM/PolygonZkEVMExistentEtrog/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/high-level/smart-contracts/api/consensus/zkEVM/PolygonZkEVMV2/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/high-level/smart-contracts/api/consensus/zkEVM/PolygonZkEVMV2Existent/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/high-level/smart-contracts/api/lib/DepositContractBase/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/high-level/smart-contracts/api/lib/DepositContractLib/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/high-level/smart-contracts/api/lib/DepositContractV2/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/high-level/smart-contracts/api/lib/PolygonAccessControlUpgradeable/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/high-level/smart-contracts/api/lib/PolygonRollupBaseEtrog/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/high-level/smart-contracts/api/lib/PolygonTransparentProxy/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/high-level/smart-contracts/api/lib/PolygonZkEVMGlobalExitRootBaseStorage/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/high-level/smart-contracts/api/utils/ClaimCompressor/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/protocol/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/protocol/admin-role/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/protocol/etrog-upgrade/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/protocol/incentive-mechanism/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/protocol/security-council/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/protocol/sequencing-batches/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/protocol/state-management/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/protocol/synchronizer-reorg/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/protocol/upgradability/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/protocol/upgrade-process/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/protocol/malfunction-resistance/aggregator-resistance/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/protocol/malfunction-resistance/emergency-state/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/protocol/malfunction-resistance/sequencer-resistance/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/protocol/transaction-life-cycle/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/protocol/transaction-life-cycle/batch-aggregation/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/protocol/transaction-life-cycle/batch-sequencing/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/protocol/transaction-life-cycle/submit-transaction/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/protocol/transaction-life-cycle/transaction-batching/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/protocol/transaction-life-cycle/transaction-execution/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/proving-system/aggregator-proofs/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/proving-system/exec-selector-columns/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/proving-system/exec-trace-and-zkevm/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/proving-system/execution-trace-design/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/proving-system/intro-proving-sys/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/proving-system/json-rpc-to-proof/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/proving-system/l2-state-tree/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/proving-system/l2statetree-keys-and-values/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/proving-system/order-and-prove/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/proving-system/polynom-identity-lang/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/proving-system/processing-l2-blocks/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/proving-system/prover-and-verifier-recap/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/proving-system/proving-inputs/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/proving-system/secondary-sms-lookup-tables/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/proving-system/the-executor-comp/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/unified-LxLy/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/unified-LxLy/bridging/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/unified-LxLy/ulxly-exit-trees-node/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/unified-LxLy/ulxly-interchain-exchanges/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/unified-LxLy/ulxly-rollupmanager/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/unified-LxLy/ulxly-sequence-verify/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/unified-LxLy/ulxly-updating-rollups/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/zknode/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/zkprover/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/zkprover/arithmetic-sm/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/zkprover/binary-sm/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/zkprover/mem-align-sm/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/zkprover/memory-sm/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/zkprover/hashing-state-machines/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/zkprover/hashing-state-machines/bits2field-sm/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/zkprover/hashing-state-machines/keccak-framework/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/zkprover/hashing-state-machines/keccakf-sm/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/zkprover/hashing-state-machines/paddingkk-bit-sm/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/zkprover/hashing-state-machines/paddingkk-sm/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/zkprover/hashing-state-machines/poseidon-sm/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/zkprover/main-state-machine/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/zkprover/main-state-machine/processor/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/zkprover/stark-recursion/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/zkprover/stark-recursion/circom-in-zkprover/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/zkprover/stark-recursion/composition-recursion-aggregation/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/zkprover/stark-recursion/final-recursion-step/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/zkprover/stark-recursion/intermediate-recursion/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/zkprover/stark-recursion/proof-generation-phase/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/zkprover/stark-recursion/proving-architecture/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/zkprover/stark-recursion/proving-setup-phase/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/zkprover/stark-recursion/proving-tools/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/zkprover/stark-recursion/recursion-sub-process/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/zkprover/storage-state-machine/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/zkprover/storage-state-machine/construct-key-path/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/zkprover/storage-state-machine/executor-pil/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/architecture/zkprover/storage-state-machine/mechanism/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/concepts/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/concepts/circom-intro-brief/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/concepts/evm-basics/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/concepts/generic-state-machine/ending-program/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/concepts/generic-state-machine/exec-trace-correct/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/concepts/generic-state-machine/intro-generic-sm/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/concepts/generic-state-machine/plookup/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/concepts/generic-state-machine/program-counter/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/concepts/mfibonacci/commitment-scheme/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/concepts/mfibonacci/mfibonacci-example/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/concepts/mfibonacci/mfibonacci/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/concepts/mfibonacci/pil-stark-demo/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/concepts/mfibonacci/pil-stark/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/concepts/mfibonacci/verification-scheme/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/concepts/sparse-merkle-trees/basic-smt-ops/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/concepts/sparse-merkle-trees/detailed-smt/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/concepts/sparse-merkle-trees/simple-smt/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/concepts/sparse-merkle-trees/sparse-merkle-tree/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/get-started/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/get-started/check-tx-status/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/get-started/historical-data/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/get-started/json-rpc/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/get-started/quick-start/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/get-started/risk-disclosures/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/get-started/setup-nodes/local-node/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/get-started/setup-nodes/production-node/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/get-started/setup-nodes/deploy-zkevm/configure-node-deployment/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/get-started/setup-nodes/deploy-zkevm/configure-prover/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/get-started/setup-nodes/deploy-zkevm/create-wallets/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/get-started/setup-nodes/deploy-zkevm/environment-overview/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/get-started/setup-nodes/deploy-zkevm/install-dependencies/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/get-started/setup-nodes/deploy-zkevm/intro/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/get-started/setup-nodes/deploy-zkevm/prerequisites/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/get-started/setup-nodes/deploy-zkevm/start-node/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/get-started/setup-nodes/deploy-zkevm/start-services/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/how-to/using-foundry/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/how-to/using-hardhat/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/how-to/verify-contract/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/how-to/write-contract/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/spec/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/spec/evm-differences/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/spec/pil/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/spec/pil/compiling-using-pilcom/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/spec/pil/configuration-files/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/spec/pil/connection-arguments/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/spec/pil/cyclicity-in-pil/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/spec/pil/filling-polynomials/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/spec/pil/generating-proofs/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/spec/pil/inclusion-arguments/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/spec/pil/modular-programs/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/spec/pil/permutation-arguments/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/spec/pil/plonk-in-pil/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/spec/pil/public-values/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/spec/pil/simple-example/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/spec/zkasm/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/spec/zkasm/basic-syntax/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/zkEVM/spec/zkasm/examples/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/learn/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/learn/agglayer/ditl/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/learn/agglayer/lbt_vs_let/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/learn/agglayer/overview/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/learn/agglayer/pessimistic_proof/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/learn/agglayer/trust/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/learn/agglayer/unified_liquidity/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/learn/cdk/overview/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/learn/general/stack_choice/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/learn/miden/note_features/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/learn/miden/note_types/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/learn/miden/overview/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/learn/plonky3/overview/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/learn/plonky3/examples/fibonacci/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/learn/plonky3/examples/rangecheck/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/learn/pos/overview/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/learn/pos/tutorials/milestones/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/learn/zk/cyclic_groups_and_generators/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/learn/zk/key_concepts/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/learn/zk/learning_resources/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/learn/zk/np_completeness/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/learn/zk/polynomial_time/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
     <url>
          <loc>https://davidsrz.github.io/polygon-docs/learn/zkevm/overview/</loc>
-         <lastmod>2025-07-21</lastmod>
+         <lastmod>2025-07-22</lastmod>
     </url>
 </urlset>
