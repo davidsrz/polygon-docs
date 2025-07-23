@@ -10,16 +10,16 @@
         <meta name="author" content="Polygon Labs">
       
       
-        <link rel="canonical" href="https://davidsrz.github.io/polygon-docs/learn/pos/overview/">
+        <link rel="canonical" href="https://davidsrz.github.io/polygon-docs/vault-bridge/nutshell/">
       
       
-        <link rel="prev" href="../../miden/note_types/">
+        <link rel="prev" href="../../pos/concepts/transactions/meta-transactions/">
       
       
-        <link rel="next" href="../tutorials/milestones/">
+        <link rel="next" href="../getting-started/">
       
       
-      <link rel="icon" href="../../../img/favicon.ico">
+      <link rel="icon" href="../../img/favicon.ico">
       <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.15">
     
     
@@ -28,10 +28,10 @@
       
     
     
-      <link rel="stylesheet" href="../../../assets/stylesheets/main.342714a4.min.css">
+      <link rel="stylesheet" href="../../assets/stylesheets/main.342714a4.min.css">
       
         
-        <link rel="stylesheet" href="../../../assets/stylesheets/palette.06af60db.min.css">
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
       
       
 
@@ -50,13 +50,13 @@
       
     
     
-      <link rel="stylesheet" href="../../../_site_essentials/stylesheets/extra.css">
+      <link rel="stylesheet" href="../../_site_essentials/stylesheets/extra.css">
     
       <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.css">
     
-    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
   
@@ -101,7 +101,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#polygon-pos-overview" class="md-skip">
+        <a href="#vault-bridge-overview" class="md-skip">
           Skip to content
         </a>
       
@@ -117,7 +117,7 @@
 
 <header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
   <nav class="md-header__inner md-grid" aria-label="Header">
-    <a href="../../.." title="Polygon Knowledge Layer" class="md-header__button md-logo" aria-label="Polygon Knowledge Layer" data-md-component="logo">
+    <a href="../.." title="Polygon Knowledge Layer" class="md-header__button md-logo" aria-label="Polygon Knowledge Layer" data-md-component="logo">
       
   
   <?xml version="1.0" encoding="UTF-8" standalone="no"?>
@@ -281,7 +281,7 @@
   
   
     <li class="md-tabs__item">
-      <a href="../../.." class="md-tabs__link">
+      <a href="../.." class="md-tabs__link">
         
   
   
@@ -302,7 +302,7 @@
     
     
       <li class="md-tabs__item">
-        <a href="../../../agglayer/overview/" class="md-tabs__link">
+        <a href="../../agglayer/overview/" class="md-tabs__link">
           
   
   
@@ -331,7 +331,7 @@
     
     
       <li class="md-tabs__item">
-        <a href="../../../cdk/get-started/overview/" class="md-tabs__link">
+        <a href="../../cdk/get-started/overview/" class="md-tabs__link">
           
   
   
@@ -356,7 +356,7 @@
     
     
       <li class="md-tabs__item">
-        <a href="../../../pos/" class="md-tabs__link">
+        <a href="../../pos/" class="md-tabs__link">
           
   
   
@@ -374,11 +374,13 @@
   
   
   
+    
+  
   
     
     
-      <li class="md-tabs__item">
-        <a href="../../../vault-bridge/overview/" class="md-tabs__link">
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="./" class="md-tabs__link">
           
   
   
@@ -400,7 +402,7 @@
     
     
       <li class="md-tabs__item">
-        <a href="../../../tools/" class="md-tabs__link">
+        <a href="../../tools/" class="md-tabs__link">
           
   
   
@@ -422,37 +424,13 @@
     
     
       <li class="md-tabs__item">
-        <a href="../../../innovation-design/welcome/" class="md-tabs__link">
+        <a href="../../innovation-design/welcome/" class="md-tabs__link">
           
   
   
     
   
   Technology
-
-        </a>
-      </li>
-    
-  
-
-      
-        
-  
-  
-  
-    
-  
-  
-    
-    
-      <li class="md-tabs__item md-tabs__item--active">
-        <a href="../../" class="md-tabs__link">
-          
-  
-  
-    
-  
-  Learn
 
         </a>
       </li>
@@ -488,7 +466,7 @@
 
 <nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
-    <a href="../../.." title="Polygon Knowledge Layer" class="md-nav__button md-logo" aria-label="Polygon Knowledge Layer" data-md-component="logo">
+    <a href="../.." title="Polygon Knowledge Layer" class="md-nav__button md-logo" aria-label="Polygon Knowledge Layer" data-md-component="logo">
       
   
   <?xml version="1.0" encoding="UTF-8" standalone="no"?>
@@ -550,7 +528,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../.." class="md-nav__link">
+      <a href="../.." class="md-nav__link">
         
   
   
@@ -623,7 +601,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../agglayer/overview/" class="md-nav__link">
+      <a href="../../agglayer/overview/" class="md-nav__link">
         
   
   
@@ -695,7 +673,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../agglayer/how-to/transfer-and-call/" class="md-nav__link">
+      <a href="../../agglayer/how-to/transfer-and-call/" class="md-nav__link">
         
   
   
@@ -718,7 +696,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../agglayer/how-to/call-contract/" class="md-nav__link">
+      <a href="../../agglayer/how-to/call-contract/" class="md-nav__link">
         
   
   
@@ -774,7 +752,7 @@
         
           
           <div class="md-nav__link md-nav__container">
-            <a href="../../../agglayer/additional-resources/" class="md-nav__link ">
+            <a href="../../agglayer/additional-resources/" class="md-nav__link ">
               
   
   
@@ -809,7 +787,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../agglayer/additional-resources/connected-chains/" class="md-nav__link">
+      <a href="../../agglayer/additional-resources/connected-chains/" class="md-nav__link">
         
   
   
@@ -949,7 +927,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../cdk/get-started/overview/" class="md-nav__link">
+      <a href="../../cdk/get-started/overview/" class="md-nav__link">
         
   
   
@@ -972,7 +950,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../cdk/get-started/benefits/" class="md-nav__link">
+      <a href="../../cdk/get-started/benefits/" class="md-nav__link">
         
   
   
@@ -1054,7 +1032,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../cdk/cdk-opgeth/architecture/" class="md-nav__link">
+      <a href="../../cdk/cdk-opgeth/architecture/" class="md-nav__link">
         
   
   
@@ -1077,7 +1055,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../cdk/cdk-opgeth/local-guide/" class="md-nav__link">
+      <a href="../../cdk/cdk-opgeth/local-guide/" class="md-nav__link">
         
   
   
@@ -1100,7 +1078,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../cdk/cdk-opgeth/devnet-deployment-guide/" class="md-nav__link">
+      <a href="../../cdk/cdk-opgeth/devnet-deployment-guide/" class="md-nav__link">
         
   
   
@@ -1184,7 +1162,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../cdk/cdk-erigon/architecture/" class="md-nav__link">
+      <a href="../../cdk/cdk-erigon/architecture/" class="md-nav__link">
         
   
   
@@ -1207,7 +1185,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../cdk/cdk-erigon/local-deployment/" class="md-nav__link">
+      <a href="../../cdk/cdk-erigon/local-deployment/" class="md-nav__link">
         
   
   
@@ -1230,7 +1208,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../cdk/cdk-erigon/use-native-token/" class="md-nav__link">
+      <a href="../../cdk/cdk-erigon/use-native-token/" class="md-nav__link">
         
   
   
@@ -1304,7 +1282,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../cdk/cdk-erigon/migrate/forkid-7-to-9/" class="md-nav__link">
+      <a href="../../cdk/cdk-erigon/migrate/forkid-7-to-9/" class="md-nav__link">
         
   
   
@@ -1327,7 +1305,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../cdk/cdk-erigon/migrate/forkid-9-12/" class="md-nav__link">
+      <a href="../../cdk/cdk-erigon/migrate/forkid-9-12/" class="md-nav__link">
         
   
   
@@ -1350,7 +1328,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../cdk/cdk-erigon/migrate/fork/" class="md-nav__link">
+      <a href="../../cdk/cdk-erigon/migrate/fork/" class="md-nav__link">
         
   
   
@@ -1438,7 +1416,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../cdk/additional-resources/faqs/" class="md-nav__link">
+      <a href="../../cdk/additional-resources/faqs/" class="md-nav__link">
         
   
   
@@ -1461,7 +1439,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../cdk/additional-resources/glossary/" class="md-nav__link">
+      <a href="../../cdk/additional-resources/glossary/" class="md-nav__link">
         
   
   
@@ -1536,7 +1514,7 @@
         
           
           <div class="md-nav__link md-nav__container">
-            <a href="../../../pos/" class="md-nav__link ">
+            <a href="../../pos/" class="md-nav__link ">
               
   
   
@@ -1571,7 +1549,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/overview/" class="md-nav__link">
+      <a href="../../pos/overview/" class="md-nav__link">
         
   
   
@@ -1645,7 +1623,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/get-started/building-on-polygon/" class="md-nav__link">
+      <a href="../../pos/get-started/building-on-polygon/" class="md-nav__link">
         
   
   
@@ -1721,7 +1699,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/how-to/bridging/ethereum-polygon/portal-ui/" class="md-nav__link">
+      <a href="../../pos/how-to/bridging/ethereum-polygon/portal-ui/" class="md-nav__link">
         
   
   
@@ -1744,7 +1722,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/how-to/bridging/ethereum-polygon/ethereum-to-matic/" class="md-nav__link">
+      <a href="../../pos/how-to/bridging/ethereum-polygon/ethereum-to-matic/" class="md-nav__link">
         
   
   
@@ -1767,7 +1745,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/how-to/bridging/ethereum-polygon/matic-to-ethereum/" class="md-nav__link">
+      <a href="../../pos/how-to/bridging/ethereum-polygon/matic-to-ethereum/" class="md-nav__link">
         
   
   
@@ -1790,7 +1768,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/how-to/bridging/ethereum-polygon/submit-mapping-request/" class="md-nav__link">
+      <a href="../../pos/how-to/bridging/ethereum-polygon/submit-mapping-request/" class="md-nav__link">
         
   
   
@@ -1821,7 +1799,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/get-started/becoming-a-validator/" class="md-nav__link">
+      <a href="../../pos/get-started/becoming-a-validator/" class="md-nav__link">
         
   
   
@@ -1913,7 +1891,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/how-to/prerequisites/" class="md-nav__link">
+      <a href="../../pos/how-to/prerequisites/" class="md-nav__link">
         
   
   
@@ -1936,7 +1914,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/how-to/snapshots/" class="md-nav__link">
+      <a href="../../pos/how-to/snapshots/" class="md-nav__link">
         
   
   
@@ -2014,7 +1992,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/how-to/full-node/full-node-binaries/" class="md-nav__link">
+      <a href="../../pos/how-to/full-node/full-node-binaries/" class="md-nav__link">
         
   
   
@@ -2037,7 +2015,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/how-to/full-node/full-node-docker/" class="md-nav__link">
+      <a href="../../pos/how-to/full-node/full-node-docker/" class="md-nav__link">
         
   
   
@@ -2060,7 +2038,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/how-to/full-node/full-node-ansible/" class="md-nav__link">
+      <a href="../../pos/how-to/full-node/full-node-ansible/" class="md-nav__link">
         
   
   
@@ -2083,7 +2061,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/how-to/full-node/full-node-packages/" class="md-nav__link">
+      <a href="../../pos/how-to/full-node/full-node-packages/" class="md-nav__link">
         
   
   
@@ -2106,7 +2084,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/how-to/full-node/full-node-gcp/" class="md-nav__link">
+      <a href="../../pos/how-to/full-node/full-node-gcp/" class="md-nav__link">
         
   
   
@@ -2190,7 +2168,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/how-to/validator/validator-best-practices/" class="md-nav__link">
+      <a href="../../pos/how-to/validator/validator-best-practices/" class="md-nav__link">
         
   
   
@@ -2213,7 +2191,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/how-to/validator/validator-binaries/" class="md-nav__link">
+      <a href="../../pos/how-to/validator/validator-binaries/" class="md-nav__link">
         
   
   
@@ -2236,7 +2214,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/how-to/validator/validator-ansible/" class="md-nav__link">
+      <a href="../../pos/how-to/validator/validator-ansible/" class="md-nav__link">
         
   
   
@@ -2259,7 +2237,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/how-to/validator/validator-packages/" class="md-nav__link">
+      <a href="../../pos/how-to/validator/validator-packages/" class="md-nav__link">
         
   
   
@@ -2343,7 +2321,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/how-to/operate-validator-node/next-steps/" class="md-nav__link">
+      <a href="../../pos/how-to/operate-validator-node/next-steps/" class="md-nav__link">
         
   
   
@@ -2366,7 +2344,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/how-to/operate-validator-node/change-signer-address/" class="md-nav__link">
+      <a href="../../pos/how-to/operate-validator-node/change-signer-address/" class="md-nav__link">
         
   
   
@@ -2389,7 +2367,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/how-to/operate-validator-node/topup-heimdall-fee/" class="md-nav__link">
+      <a href="../../pos/how-to/operate-validator-node/topup-heimdall-fee/" class="md-nav__link">
         
   
   
@@ -2412,7 +2390,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/how-to/operate-validator-node/validator-performance/" class="md-nav__link">
+      <a href="../../pos/how-to/operate-validator-node/validator-performance/" class="md-nav__link">
         
   
   
@@ -2443,7 +2421,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/how-to/erigon-archive-node/" class="md-nav__link">
+      <a href="../../pos/how-to/erigon-archive-node/" class="md-nav__link">
         
   
   
@@ -2517,7 +2495,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/how-to/troubleshoot/technical-faqs/" class="md-nav__link">
+      <a href="../../pos/how-to/troubleshoot/technical-faqs/" class="md-nav__link">
         
   
   
@@ -2540,7 +2518,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/how-to/troubleshoot/known-issues/" class="md-nav__link">
+      <a href="../../pos/how-to/troubleshoot/known-issues/" class="md-nav__link">
         
   
   
@@ -2563,7 +2541,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/how-to/troubleshoot/reporting-issues/" class="md-nav__link">
+      <a href="../../pos/how-to/troubleshoot/reporting-issues/" class="md-nav__link">
         
   
   
@@ -2706,7 +2684,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/reference/contracts/genesis-contracts/" class="md-nav__link">
+      <a href="../../pos/reference/contracts/genesis-contracts/" class="md-nav__link">
         
   
   
@@ -2729,7 +2707,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/reference/contracts/delegation/" class="md-nav__link">
+      <a href="../../pos/reference/contracts/delegation/" class="md-nav__link">
         
   
   
@@ -2752,7 +2730,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/reference/contracts/stakingmanager/" class="md-nav__link">
+      <a href="../../pos/reference/contracts/stakingmanager/" class="md-nav__link">
         
   
   
@@ -2783,7 +2761,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/reference/rewards/" class="md-nav__link">
+      <a href="../../pos/reference/rewards/" class="md-nav__link">
         
   
   
@@ -2806,7 +2784,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/reference/telemetry-setup-guide/" class="md-nav__link">
+      <a href="../../pos/reference/telemetry-setup-guide/" class="md-nav__link">
         
   
   
@@ -2829,7 +2807,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/reference/port-management/" class="md-nav__link">
+      <a href="../../pos/reference/port-management/" class="md-nav__link">
         
   
   
@@ -2852,7 +2830,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/reference/network-upgrade-process/" class="md-nav__link">
+      <a href="../../pos/reference/network-upgrade-process/" class="md-nav__link">
         
   
   
@@ -2875,7 +2853,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/reference/commands/" class="md-nav__link">
+      <a href="../../pos/reference/commands/" class="md-nav__link">
         
   
   
@@ -2898,7 +2876,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/reference/seed-and-bootnodes/" class="md-nav__link">
+      <a href="../../pos/reference/seed-and-bootnodes/" class="md-nav__link">
         
   
   
@@ -2921,7 +2899,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/reference/commit-chain-multisigs/" class="md-nav__link">
+      <a href="../../pos/reference/commit-chain-multisigs/" class="md-nav__link">
         
   
   
@@ -3009,7 +2987,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/governance/governance-fundamentals/" class="md-nav__link">
+      <a href="../../pos/governance/governance-fundamentals/" class="md-nav__link">
         
   
   
@@ -3032,7 +3010,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/how-to/delegate/" class="md-nav__link">
+      <a href="../../pos/how-to/delegate/" class="md-nav__link">
         
   
   
@@ -3116,7 +3094,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/architecture/overview/" class="md-nav__link">
+      <a href="../../pos/architecture/overview/" class="md-nav__link">
         
   
   
@@ -3190,7 +3168,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/architecture/bor/introduction/" class="md-nav__link">
+      <a href="../../pos/architecture/bor/introduction/" class="md-nav__link">
         
   
   
@@ -3213,7 +3191,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/architecture/bor/state-sync/" class="md-nav__link">
+      <a href="../../pos/architecture/bor/state-sync/" class="md-nav__link">
         
   
   
@@ -3236,7 +3214,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/architecture/bor/network-config/" class="md-nav__link">
+      <a href="../../pos/architecture/bor/network-config/" class="md-nav__link">
         
   
   
@@ -3334,7 +3312,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/architecture/heimdall/introduction/" class="md-nav__link">
+      <a href="../../pos/architecture/heimdall/introduction/" class="md-nav__link">
         
   
   
@@ -3357,7 +3335,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/architecture/heimdall/heimdall-and-bor/" class="md-nav__link">
+      <a href="../../pos/architecture/heimdall/heimdall-and-bor/" class="md-nav__link">
         
   
   
@@ -3380,7 +3358,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/architecture/heimdall/authentication/" class="md-nav__link">
+      <a href="../../pos/architecture/heimdall/authentication/" class="md-nav__link">
         
   
   
@@ -3403,7 +3381,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/architecture/heimdall/key-management/" class="md-nav__link">
+      <a href="../../pos/architecture/heimdall/key-management/" class="md-nav__link">
         
   
   
@@ -3426,7 +3404,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/architecture/heimdall/validation/" class="md-nav__link">
+      <a href="../../pos/architecture/heimdall/validation/" class="md-nav__link">
         
   
   
@@ -3449,7 +3427,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/architecture/heimdall/balance-transfers/" class="md-nav__link">
+      <a href="../../pos/architecture/heimdall/balance-transfers/" class="md-nav__link">
         
   
   
@@ -3472,7 +3450,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/architecture/heimdall/staking/" class="md-nav__link">
+      <a href="../../pos/architecture/heimdall/staking/" class="md-nav__link">
         
   
   
@@ -3495,7 +3473,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/architecture/heimdall/checkpoints/" class="md-nav__link">
+      <a href="../../pos/architecture/heimdall/checkpoints/" class="md-nav__link">
         
   
   
@@ -3518,7 +3496,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/architecture/heimdall/topup/" class="md-nav__link">
+      <a href="../../pos/architecture/heimdall/topup/" class="md-nav__link">
         
   
   
@@ -3541,7 +3519,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/architecture/heimdall/chain-management/" class="md-nav__link">
+      <a href="../../pos/architecture/heimdall/chain-management/" class="md-nav__link">
         
   
   
@@ -3564,7 +3542,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/architecture/heimdall/governance/" class="md-nav__link">
+      <a href="../../pos/architecture/heimdall/governance/" class="md-nav__link">
         
   
   
@@ -3666,7 +3644,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/architecture/heimdall_v2/introduction/" class="md-nav__link">
+      <a href="../../pos/architecture/heimdall_v2/introduction/" class="md-nav__link">
         
   
   
@@ -3689,7 +3667,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/architecture/heimdall_v2/changes-from-v1/" class="md-nav__link">
+      <a href="../../pos/architecture/heimdall_v2/changes-from-v1/" class="md-nav__link">
         
   
   
@@ -3712,7 +3690,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/architecture/heimdall_v2/authentication/" class="md-nav__link">
+      <a href="../../pos/architecture/heimdall_v2/authentication/" class="md-nav__link">
         
   
   
@@ -3735,7 +3713,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/architecture/heimdall_v2/balance-transfers/" class="md-nav__link">
+      <a href="../../pos/architecture/heimdall_v2/balance-transfers/" class="md-nav__link">
         
   
   
@@ -3758,7 +3736,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/architecture/heimdall_v2/staking/" class="md-nav__link">
+      <a href="../../pos/architecture/heimdall_v2/staking/" class="md-nav__link">
         
   
   
@@ -3781,7 +3759,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/architecture/heimdall_v2/checkpoints/" class="md-nav__link">
+      <a href="../../pos/architecture/heimdall_v2/checkpoints/" class="md-nav__link">
         
   
   
@@ -3804,7 +3782,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/architecture/heimdall_v2/topup/" class="md-nav__link">
+      <a href="../../pos/architecture/heimdall_v2/topup/" class="md-nav__link">
         
   
   
@@ -3827,7 +3805,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/architecture/heimdall_v2/chain-management/" class="md-nav__link">
+      <a href="../../pos/architecture/heimdall_v2/chain-management/" class="md-nav__link">
         
   
   
@@ -3850,7 +3828,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/architecture/heimdall_v2/governance/" class="md-nav__link">
+      <a href="../../pos/architecture/heimdall_v2/governance/" class="md-nav__link">
         
   
   
@@ -3873,7 +3851,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/architecture/heimdall_v2/clerk/" class="md-nav__link">
+      <a href="../../pos/architecture/heimdall_v2/clerk/" class="md-nav__link">
         
   
   
@@ -3896,7 +3874,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/architecture/heimdall_v2/heimdall-bor-module/" class="md-nav__link">
+      <a href="../../pos/architecture/heimdall_v2/heimdall-bor-module/" class="md-nav__link">
         
   
   
@@ -3919,7 +3897,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/architecture/heimdall_v2/milestones/" class="md-nav__link">
+      <a href="../../pos/architecture/heimdall_v2/milestones/" class="md-nav__link">
         
   
   
@@ -3991,7 +3969,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/architecture/heimdall_v2/heimdallv2_rpc" class="md-nav__link">
+      <a href="../../pos/architecture/heimdall_v2/heimdallv2_rpc" class="md-nav__link">
         
   
   
@@ -4014,7 +3992,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/architecture/heimdall_v2/cosmos_sdk_rpc" class="md-nav__link">
+      <a href="../../pos/architecture/heimdall_v2/cosmos_sdk_rpc" class="md-nav__link">
         
   
   
@@ -4110,7 +4088,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/reference/rpc-endpoints/" class="md-nav__link">
+      <a href="../../pos/reference/rpc-endpoints/" class="md-nav__link">
         
   
   
@@ -4133,7 +4111,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/reference/mapped-tokens/" class="md-nav__link">
+      <a href="../../pos/reference/mapped-tokens/" class="md-nav__link">
         
   
   
@@ -4264,7 +4242,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/concepts/tokens/matic-to-pol/" class="md-nav__link">
+      <a href="../../pos/concepts/tokens/matic-to-pol/" class="md-nav__link">
         
   
   
@@ -4287,7 +4265,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/concepts/tokens/pol/" class="md-nav__link">
+      <a href="../../pos/concepts/tokens/pol/" class="md-nav__link">
         
   
   
@@ -4310,7 +4288,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/concepts/tokens/matic/" class="md-nav__link">
+      <a href="../../pos/concepts/tokens/matic/" class="md-nav__link">
         
   
   
@@ -4392,7 +4370,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/concepts/transactions/eip-1559/" class="md-nav__link">
+      <a href="../../pos/concepts/transactions/eip-1559/" class="md-nav__link">
         
   
   
@@ -4415,7 +4393,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/concepts/transactions/eip-4337/" class="md-nav__link">
+      <a href="../../pos/concepts/transactions/eip-4337/" class="md-nav__link">
         
   
   
@@ -4438,7 +4416,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../pos/concepts/transactions/meta-transactions/" class="md-nav__link">
+      <a href="../../pos/concepts/transactions/meta-transactions/" class="md-nav__link">
         
   
   
@@ -4481,8 +4459,10 @@
       
   
   
+    
   
   
+  
     
     
       
@@ -4504,19 +4484,22 @@
     
     
       
+        
+        
+      
       
         
       
     
     
-    <li class="md-nav__item md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" checked>
         
           
-          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="">
             
   
   
@@ -4529,7 +4512,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="true">
           <label class="md-nav__title" for="__nav_5">
             <span class="md-nav__icon md-icon"></span>
             Vault Bridge
@@ -4540,10 +4523,32 @@
                 
   
   
+    
   
   
-    <li class="md-nav__item">
-      <a href="../../../vault-bridge/overview/" class="md-nav__link">
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    Overview
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
         
   
   
@@ -4554,29 +4559,245 @@
   
 
       </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../../vault-bridge/architecture/" class="md-nav__link">
+      
         
-  
-  
-  <span class="md-ellipsis">
-    Architecture
-    
-  </span>
-  
 
-      </a>
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#what-is-vault-bridge" class="md-nav__link">
+    <span class="md-ellipsis">
+      What is Vault Bridge?
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="What is Vault Bridge?">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#how-does-vault-bridge-differ-from-other-yield-protocols" class="md-nav__link">
+    <span class="md-ellipsis">
+      How does Vault Bridge differ from other yield protocols?
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#which-chains-support-vault-bridge" class="md-nav__link">
+    <span class="md-ellipsis">
+      Which chains support Vault Bridge?
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#what-assets-are-supported" class="md-nav__link">
+    <span class="md-ellipsis">
+      What assets are supported?
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#technical-questions" class="md-nav__link">
+    <span class="md-ellipsis">
+      Technical Questions
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Technical Questions">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#how-are-vbtokens-different-from-regular-tokens" class="md-nav__link">
+    <span class="md-ellipsis">
+      How are vbTokens different from regular tokens?
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#how-does-the-migration-manager-work" class="md-nav__link">
+    <span class="md-ellipsis">
+      How does the Migration Manager work?
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#what-are-the-security-considerations" class="md-nav__link">
+    <span class="md-ellipsis">
+      What are the security considerations?
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#how-is-yield-calculated-and-distributed" class="md-nav__link">
+    <span class="md-ellipsis">
+      How is yield calculated and distributed?
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#business-questions" class="md-nav__link">
+    <span class="md-ellipsis">
+      Business Questions
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Business Questions">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#what-are-the-revenue-expectations" class="md-nav__link">
+    <span class="md-ellipsis">
+      What are the revenue expectations?
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#how-do-i-participate-in-revenue-sharing" class="md-nav__link">
+    <span class="md-ellipsis">
+      How do I participate in revenue sharing?
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#integration-questions" class="md-nav__link">
+    <span class="md-ellipsis">
+      Integration Questions
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Integration Questions">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#how-do-i-integrate-vault-bridge-into-my-defi-protocol" class="md-nav__link">
+    <span class="md-ellipsis">
+      How do I integrate Vault Bridge into my DeFi protocol?
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#can-i-use-vault-bridge-with-existing-bridges" class="md-nav__link">
+    <span class="md-ellipsis">
+      Can I use Vault Bridge with existing bridges?
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#what-are-the-gas-costs-for-vault-bridge-operations" class="md-nav__link">
+    <span class="md-ellipsis">
+      What are the gas costs for Vault Bridge operations?
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#how-do-i-handle-slippage-and-mev-protection" class="md-nav__link">
+    <span class="md-ellipsis">
+      How do I handle slippage and MEV protection?
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#future-roadmap" class="md-nav__link">
+    <span class="md-ellipsis">
+      Future Roadmap
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Future Roadmap">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#upcoming-features" class="md-nav__link">
+    <span class="md-ellipsis">
+      Upcoming Features
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#timeline-expectations" class="md-nav__link">
+    <span class="md-ellipsis">
+      Timeline Expectations
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#research-and-development" class="md-nav__link">
+    <span class="md-ellipsis">
+      Research and Development
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
     </li>
   
 
@@ -4589,7 +4810,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../vault-bridge/getting-started/" class="md-nav__link">
+      <a href="../getting-started/" class="md-nav__link">
         
   
   
@@ -4612,7 +4833,30 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../vault-bridge/contracts/" class="md-nav__link">
+      <a href="../architecture/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Architecture
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../contracts/" class="md-nav__link">
         
   
   
@@ -4635,7 +4879,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../vault-bridge/integration-guide/" class="md-nav__link">
+      <a href="../integration-guide/" class="md-nav__link">
         
   
   
@@ -4658,7 +4902,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../vault-bridge/api-reference/" class="md-nav__link">
+      <a href="../api-reference/" class="md-nav__link">
         
   
   
@@ -4681,12 +4925,12 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../vault-bridge/faq/" class="md-nav__link">
+      <a href="../opfaq/" class="md-nav__link">
         
   
   
   <span class="md-ellipsis">
-    FAQ
+    Operative FAQs
     
   </span>
   
@@ -4740,7 +4984,7 @@
         
           
           <div class="md-nav__link md-nav__container">
-            <a href="../../../tools/" class="md-nav__link ">
+            <a href="../../tools/" class="md-nav__link ">
               
   
   
@@ -4840,7 +5084,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/gas/matic-faucet/" class="md-nav__link">
+      <a href="../../tools/gas/matic-faucet/" class="md-nav__link">
         
   
   
@@ -4863,7 +5107,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/wallets/portal/" class="md-nav__link">
+      <a href="../../tools/wallets/portal/" class="md-nav__link">
         
   
   
@@ -4941,7 +5185,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/wallets/metamask/overview/" class="md-nav__link">
+      <a href="../../tools/wallets/metamask/overview/" class="md-nav__link">
         
   
   
@@ -4987,7 +5231,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/wallets/metamask/add-polygon-network/" class="md-nav__link">
+      <a href="../../tools/wallets/metamask/add-polygon-network/" class="md-nav__link">
         
   
   
@@ -5111,7 +5355,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/dApp-development/tutorials/access-node/" class="md-nav__link">
+      <a href="../../tools/dApp-development/tutorials/access-node/" class="md-nav__link">
         
   
   
@@ -5242,7 +5486,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/dApp-development/common-tools/hardhat/" class="md-nav__link">
+      <a href="../../tools/dApp-development/common-tools/hardhat/" class="md-nav__link">
         
   
   
@@ -5265,7 +5509,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/dApp-development/common-tools/remix/" class="md-nav__link">
+      <a href="../../tools/dApp-development/common-tools/remix/" class="md-nav__link">
         
   
   
@@ -5288,7 +5532,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/dApp-development/common-tools/replit/" class="md-nav__link">
+      <a href="../../tools/dApp-development/common-tools/replit/" class="md-nav__link">
         
   
   
@@ -5372,7 +5616,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../zkEVM/how-to/write-contract/" class="md-nav__link">
+      <a href="../../zkEVM/how-to/write-contract/" class="md-nav__link">
         
   
   
@@ -5395,7 +5639,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../zkEVM/how-to/using-foundry/" class="md-nav__link">
+      <a href="../../zkEVM/how-to/using-foundry/" class="md-nav__link">
         
   
   
@@ -5418,7 +5662,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../zkEVM/how-to/using-hardhat/" class="md-nav__link">
+      <a href="../../zkEVM/how-to/using-hardhat/" class="md-nav__link">
         
   
   
@@ -5441,7 +5685,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../zkEVM/how-to/verify-contract/" class="md-nav__link">
+      <a href="../../zkEVM/how-to/verify-contract/" class="md-nav__link">
         
   
   
@@ -5638,7 +5882,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/gas/polygon-gas-station/" class="md-nav__link">
+      <a href="../../tools/gas/polygon-gas-station/" class="md-nav__link">
         
   
   
@@ -5720,7 +5964,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/dApp-development/launchpad/intro/" class="md-nav__link">
+      <a href="../../tools/dApp-development/launchpad/intro/" class="md-nav__link">
         
   
   
@@ -5743,7 +5987,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/dApp-development/launchpad/quickstart/" class="md-nav__link">
+      <a href="../../tools/dApp-development/launchpad/quickstart/" class="md-nav__link">
         
   
   
@@ -5766,7 +6010,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/dApp-development/launchpad/frontend/" class="md-nav__link">
+      <a href="../../tools/dApp-development/launchpad/frontend/" class="md-nav__link">
         
   
   
@@ -5789,7 +6033,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/dApp-development/launchpad/smart-contracts/" class="md-nav__link">
+      <a href="../../tools/dApp-development/launchpad/smart-contracts/" class="md-nav__link">
         
   
   
@@ -5812,7 +6056,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/dApp-development/launchpad/commands/" class="md-nav__link">
+      <a href="../../tools/dApp-development/launchpad/commands/" class="md-nav__link">
         
   
   
@@ -5835,7 +6079,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/dApp-development/launchpad/contributing/" class="md-nav__link">
+      <a href="../../tools/dApp-development/launchpad/contributing/" class="md-nav__link">
         
   
   
@@ -5858,7 +6102,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/dApp-development/launchpad/common-pitfalls/" class="md-nav__link">
+      <a href="../../tools/dApp-development/launchpad/common-pitfalls/" class="md-nav__link">
         
   
   
@@ -5938,7 +6182,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/chain-indexer-framework/overview/" class="md-nav__link">
+      <a href="../../tools/chain-indexer-framework/overview/" class="md-nav__link">
         
   
   
@@ -5961,7 +6205,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/chain-indexer-framework/usage/" class="md-nav__link">
+      <a href="../../tools/chain-indexer-framework/usage/" class="md-nav__link">
         
   
   
@@ -6154,7 +6398,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/get-started/" class="md-nav__link">
+      <a href="../../tools/matic-js/get-started/" class="md-nav__link">
         
   
   
@@ -6240,7 +6484,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/pos/client/" class="md-nav__link">
+      <a href="../../tools/matic-js/pos/client/" class="md-nav__link">
         
   
   
@@ -6263,7 +6507,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/api-architecture/" class="md-nav__link">
+      <a href="../../tools/matic-js/api-architecture/" class="md-nav__link">
         
   
   
@@ -6335,7 +6579,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/setup/ethers/" class="md-nav__link">
+      <a href="../../tools/matic-js/setup/ethers/" class="md-nav__link">
         
   
   
@@ -6358,7 +6602,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/setup/web3js/" class="md-nav__link">
+      <a href="../../tools/matic-js/setup/web3js/" class="md-nav__link">
         
   
   
@@ -6389,7 +6633,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/set-proof-api/" class="md-nav__link">
+      <a href="../../tools/matic-js/set-proof-api/" class="md-nav__link">
         
   
   
@@ -6463,7 +6707,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/advanced/abi-manager/" class="md-nav__link">
+      <a href="../../tools/matic-js/advanced/abi-manager/" class="md-nav__link">
         
   
   
@@ -6486,7 +6730,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/advanced/exit-util/" class="md-nav__link">
+      <a href="../../tools/matic-js/advanced/exit-util/" class="md-nav__link">
         
   
   
@@ -6509,7 +6753,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/advanced/plugin/" class="md-nav__link">
+      <a href="../../tools/matic-js/advanced/plugin/" class="md-nav__link">
         
   
   
@@ -6583,7 +6827,7 @@
         
           
           <div class="md-nav__link md-nav__container">
-            <a href="../../../tools/matic-js/pos/erc20/" class="md-nav__link ">
+            <a href="../../tools/matic-js/pos/erc20/" class="md-nav__link ">
               
   
   
@@ -6618,7 +6862,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/pos/erc20/approve-max/" class="md-nav__link">
+      <a href="../../tools/matic-js/pos/erc20/approve-max/" class="md-nav__link">
         
   
   
@@ -6641,7 +6885,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/pos/erc20/approve/" class="md-nav__link">
+      <a href="../../tools/matic-js/pos/erc20/approve/" class="md-nav__link">
         
   
   
@@ -6664,7 +6908,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/pos/erc20/deposit/" class="md-nav__link">
+      <a href="../../tools/matic-js/pos/erc20/deposit/" class="md-nav__link">
         
   
   
@@ -6687,7 +6931,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/pos/erc20/get-allowance/" class="md-nav__link">
+      <a href="../../tools/matic-js/pos/erc20/get-allowance/" class="md-nav__link">
         
   
   
@@ -6710,7 +6954,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/pos/erc20/get-balance/" class="md-nav__link">
+      <a href="../../tools/matic-js/pos/erc20/get-balance/" class="md-nav__link">
         
   
   
@@ -6733,7 +6977,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/pos/erc20/is-withdraw-exited/" class="md-nav__link">
+      <a href="../../tools/matic-js/pos/erc20/is-withdraw-exited/" class="md-nav__link">
         
   
   
@@ -6756,7 +7000,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/pos/erc20/transfer/" class="md-nav__link">
+      <a href="../../tools/matic-js/pos/erc20/transfer/" class="md-nav__link">
         
   
   
@@ -6779,7 +7023,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/pos/erc20/withdraw-exit-faster/" class="md-nav__link">
+      <a href="../../tools/matic-js/pos/erc20/withdraw-exit-faster/" class="md-nav__link">
         
   
   
@@ -6802,7 +7046,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/pos/erc20/withdraw-exit/" class="md-nav__link">
+      <a href="../../tools/matic-js/pos/erc20/withdraw-exit/" class="md-nav__link">
         
   
   
@@ -6825,7 +7069,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/pos/erc20/withdraw-start/" class="md-nav__link">
+      <a href="../../tools/matic-js/pos/erc20/withdraw-start/" class="md-nav__link">
         
   
   
@@ -6917,7 +7161,7 @@
         
           
           <div class="md-nav__link md-nav__container">
-            <a href="../../../tools/matic-js/pos/erc721/" class="md-nav__link ">
+            <a href="../../tools/matic-js/pos/erc721/" class="md-nav__link ">
               
   
   
@@ -6952,7 +7196,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/pos/erc721/approve-all/" class="md-nav__link">
+      <a href="../../tools/matic-js/pos/erc721/approve-all/" class="md-nav__link">
         
   
   
@@ -6975,7 +7219,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/pos/erc721/approve/" class="md-nav__link">
+      <a href="../../tools/matic-js/pos/erc721/approve/" class="md-nav__link">
         
   
   
@@ -6998,7 +7242,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/pos/erc721/deposit-many/" class="md-nav__link">
+      <a href="../../tools/matic-js/pos/erc721/deposit-many/" class="md-nav__link">
         
   
   
@@ -7021,7 +7265,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/pos/erc721/deposit/" class="md-nav__link">
+      <a href="../../tools/matic-js/pos/erc721/deposit/" class="md-nav__link">
         
   
   
@@ -7044,7 +7288,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/pos/erc721/get-all-tokens/" class="md-nav__link">
+      <a href="../../tools/matic-js/pos/erc721/get-all-tokens/" class="md-nav__link">
         
   
   
@@ -7067,7 +7311,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/pos/erc721/get-token-id-at-index-for-user/" class="md-nav__link">
+      <a href="../../tools/matic-js/pos/erc721/get-token-id-at-index-for-user/" class="md-nav__link">
         
   
   
@@ -7090,7 +7334,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/pos/erc721/get-tokens-count/" class="md-nav__link">
+      <a href="../../tools/matic-js/pos/erc721/get-tokens-count/" class="md-nav__link">
         
   
   
@@ -7113,7 +7357,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/pos/erc721/is-approved-all/" class="md-nav__link">
+      <a href="../../tools/matic-js/pos/erc721/is-approved-all/" class="md-nav__link">
         
   
   
@@ -7136,7 +7380,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/pos/erc721/is-approved/" class="md-nav__link">
+      <a href="../../tools/matic-js/pos/erc721/is-approved/" class="md-nav__link">
         
   
   
@@ -7159,7 +7403,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/pos/erc721/is-withdraw-exited-many/" class="md-nav__link">
+      <a href="../../tools/matic-js/pos/erc721/is-withdraw-exited-many/" class="md-nav__link">
         
   
   
@@ -7182,7 +7426,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/pos/erc721/is-withdraw-exited/" class="md-nav__link">
+      <a href="../../tools/matic-js/pos/erc721/is-withdraw-exited/" class="md-nav__link">
         
   
   
@@ -7205,7 +7449,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/pos/erc721/transfer/" class="md-nav__link">
+      <a href="../../tools/matic-js/pos/erc721/transfer/" class="md-nav__link">
         
   
   
@@ -7228,7 +7472,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/pos/erc721/withdraw-exit-faster-many/" class="md-nav__link">
+      <a href="../../tools/matic-js/pos/erc721/withdraw-exit-faster-many/" class="md-nav__link">
         
   
   
@@ -7251,7 +7495,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/pos/erc721/withdraw-exit-faster/" class="md-nav__link">
+      <a href="../../tools/matic-js/pos/erc721/withdraw-exit-faster/" class="md-nav__link">
         
   
   
@@ -7274,7 +7518,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/pos/erc721/withdraw-exit-many/" class="md-nav__link">
+      <a href="../../tools/matic-js/pos/erc721/withdraw-exit-many/" class="md-nav__link">
         
   
   
@@ -7297,7 +7541,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/pos/erc721/withdraw-exit/" class="md-nav__link">
+      <a href="../../tools/matic-js/pos/erc721/withdraw-exit/" class="md-nav__link">
         
   
   
@@ -7320,7 +7564,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/pos/erc721/withdraw-start-many/" class="md-nav__link">
+      <a href="../../tools/matic-js/pos/erc721/withdraw-start-many/" class="md-nav__link">
         
   
   
@@ -7343,7 +7587,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/pos/erc721/withdraw-start-with-meta-data/" class="md-nav__link">
+      <a href="../../tools/matic-js/pos/erc721/withdraw-start-with-meta-data/" class="md-nav__link">
         
   
   
@@ -7366,7 +7610,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/pos/erc721/withdraw-start/" class="md-nav__link">
+      <a href="../../tools/matic-js/pos/erc721/withdraw-start/" class="md-nav__link">
         
   
   
@@ -7450,7 +7694,7 @@
         
           
           <div class="md-nav__link md-nav__container">
-            <a href="../../../tools/matic-js/pos/erc1155/" class="md-nav__link ">
+            <a href="../../tools/matic-js/pos/erc1155/" class="md-nav__link ">
               
   
   
@@ -7483,7 +7727,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/pos/erc1155/approve-all-for-mintable/" class="md-nav__link">
+      <a href="../../tools/matic-js/pos/erc1155/approve-all-for-mintable/" class="md-nav__link">
         
   
   
@@ -7506,7 +7750,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/pos/erc1155/approve-all/" class="md-nav__link">
+      <a href="../../tools/matic-js/pos/erc1155/approve-all/" class="md-nav__link">
         
   
   
@@ -7529,7 +7773,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/pos/erc1155/deposit-many/" class="md-nav__link">
+      <a href="../../tools/matic-js/pos/erc1155/deposit-many/" class="md-nav__link">
         
   
   
@@ -7552,7 +7796,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/pos/erc1155/deposit/" class="md-nav__link">
+      <a href="../../tools/matic-js/pos/erc1155/deposit/" class="md-nav__link">
         
   
   
@@ -7575,7 +7819,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/pos/erc1155/get-balance/" class="md-nav__link">
+      <a href="../../tools/matic-js/pos/erc1155/get-balance/" class="md-nav__link">
         
   
   
@@ -7600,7 +7844,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/pos/erc1155/is-approved-all/" class="md-nav__link">
+      <a href="../../tools/matic-js/pos/erc1155/is-approved-all/" class="md-nav__link">
         
   
   
@@ -7623,7 +7867,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/pos/erc1155/is-withdraw-exited-many/" class="md-nav__link">
+      <a href="../../tools/matic-js/pos/erc1155/is-withdraw-exited-many/" class="md-nav__link">
         
   
   
@@ -7646,7 +7890,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/pos/erc1155/is-withdraw-exited/" class="md-nav__link">
+      <a href="../../tools/matic-js/pos/erc1155/is-withdraw-exited/" class="md-nav__link">
         
   
   
@@ -7669,7 +7913,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/pos/erc1155/transfer/" class="md-nav__link">
+      <a href="../../tools/matic-js/pos/erc1155/transfer/" class="md-nav__link">
         
   
   
@@ -7692,7 +7936,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/pos/erc1155/withdraw-exit-faster-many/" class="md-nav__link">
+      <a href="../../tools/matic-js/pos/erc1155/withdraw-exit-faster-many/" class="md-nav__link">
         
   
   
@@ -7715,7 +7959,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/pos/erc1155/withdraw-exit-faster/" class="md-nav__link">
+      <a href="../../tools/matic-js/pos/erc1155/withdraw-exit-faster/" class="md-nav__link">
         
   
   
@@ -7738,7 +7982,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/pos/erc1155/withdraw-exit-many/" class="md-nav__link">
+      <a href="../../tools/matic-js/pos/erc1155/withdraw-exit-many/" class="md-nav__link">
         
   
   
@@ -7761,7 +8005,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/pos/erc1155/withdraw-exit/" class="md-nav__link">
+      <a href="../../tools/matic-js/pos/erc1155/withdraw-exit/" class="md-nav__link">
         
   
   
@@ -7784,7 +8028,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/pos/erc1155/withdraw-start-many/" class="md-nav__link">
+      <a href="../../tools/matic-js/pos/erc1155/withdraw-start-many/" class="md-nav__link">
         
   
   
@@ -7807,7 +8051,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/pos/erc1155/withdraw-start/" class="md-nav__link">
+      <a href="../../tools/matic-js/pos/erc1155/withdraw-start/" class="md-nav__link">
         
   
   
@@ -7889,7 +8133,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/pos/deposit-ether/" class="md-nav__link">
+      <a href="../../tools/matic-js/pos/deposit-ether/" class="md-nav__link">
         
   
   
@@ -7912,7 +8156,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/pos/is-check-pointed/" class="md-nav__link">
+      <a href="../../tools/matic-js/pos/is-check-pointed/" class="md-nav__link">
         
   
   
@@ -7935,7 +8179,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/pos/is-deposited/" class="md-nav__link">
+      <a href="../../tools/matic-js/pos/is-deposited/" class="md-nav__link">
         
   
   
@@ -8027,7 +8271,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/zkevm/initialize/" class="md-nav__link">
+      <a href="../../tools/matic-js/zkevm/initialize/" class="md-nav__link">
         
   
   
@@ -8050,7 +8294,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/zkevm/erc20/" class="md-nav__link">
+      <a href="../../tools/matic-js/zkevm/erc20/" class="md-nav__link">
         
   
   
@@ -8073,7 +8317,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/zkevm/message-passing/" class="md-nav__link">
+      <a href="../../tools/matic-js/zkevm/message-passing/" class="md-nav__link">
         
   
   
@@ -8096,7 +8340,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/matic-js/zkevm/common-methods/" class="md-nav__link">
+      <a href="../../tools/matic-js/zkevm/common-methods/" class="md-nav__link">
         
   
   
@@ -8192,7 +8436,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/dApp-development/third-party-tutorials/" class="md-nav__link">
+      <a href="../../tools/dApp-development/third-party-tutorials/" class="md-nav__link">
         
   
   
@@ -8287,7 +8531,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/data/thegraph/" class="md-nav__link">
+      <a href="../../tools/data/thegraph/" class="md-nav__link">
         
   
   
@@ -8369,7 +8613,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/storage/ipfs/" class="md-nav__link">
+      <a href="../../tools/storage/ipfs/" class="md-nav__link">
         
   
   
@@ -8392,7 +8636,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/storage/filecoinhelpers/" class="md-nav__link">
+      <a href="../../tools/storage/filecoinhelpers/" class="md-nav__link">
         
   
   
@@ -8415,7 +8659,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/storage/crusthelpers/" class="md-nav__link">
+      <a href="../../tools/storage/crusthelpers/" class="md-nav__link">
         
   
   
@@ -8497,7 +8741,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/oracles/getting-started/" class="md-nav__link">
+      <a href="../../tools/oracles/getting-started/" class="md-nav__link">
         
   
   
@@ -8520,7 +8764,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/oracles/chainlink/" class="md-nav__link">
+      <a href="../../tools/oracles/chainlink/" class="md-nav__link">
         
   
   
@@ -8543,7 +8787,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/oracles/chronicle/" class="md-nav__link">
+      <a href="../../tools/oracles/chronicle/" class="md-nav__link">
         
   
   
@@ -8627,7 +8871,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/wallets/getting-started/" class="md-nav__link">
+      <a href="../../tools/wallets/getting-started/" class="md-nav__link">
         
   
   
@@ -8650,7 +8894,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/wallets/walletconnect/" class="md-nav__link">
+      <a href="../../tools/wallets/walletconnect/" class="md-nav__link">
         
   
   
@@ -8722,7 +8966,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/wallets/reown/" class="md-nav__link">
+      <a href="../../tools/wallets/reown/" class="md-nav__link">
         
   
   
@@ -8745,7 +8989,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/wallets/appkit/" class="md-nav__link">
+      <a href="../../tools/wallets/appkit/" class="md-nav__link">
         
   
   
@@ -8776,7 +9020,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../tools/wallets/walletkit/" class="md-nav__link">
+      <a href="../../tools/wallets/walletkit/" class="md-nav__link">
         
   
   
@@ -9028,7 +9272,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../innovation-design/welcome/" class="md-nav__link">
+      <a href="../../innovation-design/welcome/" class="md-nav__link">
         
   
   
@@ -9104,7 +9348,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../cdk/architecture/type-1-prover/intro-t1-prover/" class="md-nav__link">
+      <a href="../../cdk/architecture/type-1-prover/intro-t1-prover/" class="md-nav__link">
         
   
   
@@ -9176,7 +9420,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../cdk/how-to/deploy-t1-prover/" class="md-nav__link">
+      <a href="../../cdk/how-to/deploy-t1-prover/" class="md-nav__link">
         
   
   
@@ -9199,7 +9443,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../cdk/how-to/deploy-t1-prover-devnet/" class="md-nav__link">
+      <a href="../../cdk/how-to/deploy-t1-prover-devnet/" class="md-nav__link">
         
   
   
@@ -9281,7 +9525,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../cdk/architecture/type-1-prover/t1-architecture/" class="md-nav__link">
+      <a href="../../cdk/architecture/type-1-prover/t1-architecture/" class="md-nav__link">
         
   
   
@@ -9304,7 +9548,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../cdk/architecture/type-1-prover/t1-design-challenge/" class="md-nav__link">
+      <a href="../../cdk/architecture/type-1-prover/t1-design-challenge/" class="md-nav__link">
         
   
   
@@ -9327,7 +9571,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../cdk/architecture/type-1-prover/testing-and-proving-costs/" class="md-nav__link">
+      <a href="../../cdk/architecture/type-1-prover/testing-and-proving-costs/" class="md-nav__link">
         
   
   
@@ -9409,7 +9653,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../cdk/architecture/type-1-prover/t1-cpu-component/" class="md-nav__link">
+      <a href="../../cdk/architecture/type-1-prover/t1-cpu-component/" class="md-nav__link">
         
   
   
@@ -9432,7 +9676,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../cdk/architecture/type-1-prover/t1-ctl-protocol/" class="md-nav__link">
+      <a href="../../cdk/architecture/type-1-prover/t1-ctl-protocol/" class="md-nav__link">
         
   
   
@@ -9455,7 +9699,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../cdk/architecture/type-1-prover/t1-rangechecks/" class="md-nav__link">
+      <a href="../../cdk/architecture/type-1-prover/t1-rangechecks/" class="md-nav__link">
         
   
   
@@ -9494,7 +9738,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../innovation-design/plonky/" class="md-nav__link">
+      <a href="../../innovation-design/plonky/" class="md-nav__link">
         
   
   
@@ -9574,7 +9818,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../innovation-design/security/overview/" class="md-nav__link">
+      <a href="../../innovation-design/security/overview/" class="md-nav__link">
         
   
   
@@ -9658,7 +9902,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../innovation-design/security/governance/" class="md-nav__link">
+      <a href="../../innovation-design/security/governance/" class="md-nav__link">
         
   
   
@@ -9681,7 +9925,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../innovation-design/security/risk/" class="md-nav__link">
+      <a href="../../innovation-design/security/risk/" class="md-nav__link">
         
   
   
@@ -9704,7 +9948,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../innovation-design/security/hr/" class="md-nav__link">
+      <a href="../../innovation-design/security/hr/" class="md-nav__link">
         
   
   
@@ -9727,7 +9971,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../innovation-design/security/infrastructure/" class="md-nav__link">
+      <a href="../../innovation-design/security/infrastructure/" class="md-nav__link">
         
   
   
@@ -9750,7 +9994,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../innovation-design/security/sdlc/" class="md-nav__link">
+      <a href="../../innovation-design/security/sdlc/" class="md-nav__link">
         
   
   
@@ -9773,7 +10017,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../innovation-design/security/smartcontracts/" class="md-nav__link">
+      <a href="../../innovation-design/security/smartcontracts/" class="md-nav__link">
         
   
   
@@ -9796,7 +10040,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../innovation-design/security/vulnerability/" class="md-nav__link">
+      <a href="../../innovation-design/security/vulnerability/" class="md-nav__link">
         
   
   
@@ -9819,7 +10063,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../innovation-design/security/operations/" class="md-nav__link">
+      <a href="../../innovation-design/security/operations/" class="md-nav__link">
         
   
   
@@ -9850,7 +10094,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../innovation-design/security/reports/" class="md-nav__link">
+      <a href="../../innovation-design/security/reports/" class="md-nav__link">
         
   
   
@@ -9873,7 +10117,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../innovation-design/security/bugbounty/" class="md-nav__link">
+      <a href="../../innovation-design/security/bugbounty/" class="md-nav__link">
         
   
   
@@ -9896,7 +10140,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../innovation-design/security/disclosure/" class="md-nav__link">
+      <a href="../../innovation-design/security/disclosure/" class="md-nav__link">
         
   
   
@@ -9919,1163 +10163,12 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../innovation-design/security/contact/" class="md-nav__link">
+      <a href="../../innovation-design/security/contact/" class="md-nav__link">
         
   
   
   <span class="md-ellipsis">
     Contact us
-    
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-          </ul>
-        </nav>
-      
-    </li>
-  
-
-              
-            
-          </ul>
-        </nav>
-      
-    </li>
-  
-
-    
-      
-      
-  
-  
-    
-  
-  
-  
-    
-    
-      
-        
-          
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-    
-    
-    
-      
-        
-        
-      
-      
-        
-      
-    
-    
-    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
-      
-        
-        
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8" checked>
-        
-          
-          <div class="md-nav__link md-nav__container">
-            <a href="../../" class="md-nav__link ">
-              
-  
-  
-  <span class="md-ellipsis">
-    Learn
-    
-  </span>
-  
-
-            </a>
-            
-              
-              <label class="md-nav__link " for="__nav_8" id="__nav_8_label" tabindex="">
-                <span class="md-nav__icon md-icon"></span>
-              </label>
-            
-          </div>
-        
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="true">
-          <label class="md-nav__title" for="__nav_8">
-            <span class="md-nav__icon md-icon"></span>
-            Learn
-          </label>
-          <ul class="md-nav__list" data-md-scrollfix>
-            
-              
-            
-              
-                
-  
-  
-  
-  
-    
-    
-      
-        
-      
-    
-    
-    
-      
-      
-        
-          
-          
-        
-      
-    
-    
-    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
-      
-        
-        
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8_2" >
-        
-          
-          <label class="md-nav__link" for="__nav_8_2" id="__nav_8_2_label" tabindex="">
-            
-  
-  
-  <span class="md-ellipsis">
-    General
-    
-  </span>
-  
-
-            <span class="md-nav__icon md-icon"></span>
-          </label>
-        
-        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_8_2_label" aria-expanded="false">
-          <label class="md-nav__title" for="__nav_8_2">
-            <span class="md-nav__icon md-icon"></span>
-            General
-          </label>
-          <ul class="md-nav__list" data-md-scrollfix>
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../general/stack_choice/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    Stack Choice
-    
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-          </ul>
-        </nav>
-      
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    
-    
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-    
-    
-    
-      
-      
-        
-          
-          
-        
-      
-    
-    
-    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
-      
-        
-        
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8_3" >
-        
-          
-          <label class="md-nav__link" for="__nav_8_3" id="__nav_8_3_label" tabindex="">
-            
-  
-  
-  <span class="md-ellipsis">
-    Learning ZK
-    
-  </span>
-  
-
-            <span class="md-nav__icon md-icon"></span>
-          </label>
-        
-        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_8_3_label" aria-expanded="false">
-          <label class="md-nav__title" for="__nav_8_3">
-            <span class="md-nav__icon md-icon"></span>
-            Learning ZK
-          </label>
-          <ul class="md-nav__list" data-md-scrollfix>
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../zk/key_concepts/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    Overview
-    
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../zk/polynomial_time/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    Polynomial Time
-    
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../zk/np_completeness/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    NP Completeness
-    
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../zk/cyclic_groups_and_generators/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    Cyclic Groups and Generators
-    
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../zk/learning_resources/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    Learning Resources
-    
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-          </ul>
-        </nav>
-      
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    
-    
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-    
-    
-    
-      
-      
-        
-          
-          
-        
-      
-    
-    
-    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
-      
-        
-        
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8_4" >
-        
-          
-          <label class="md-nav__link" for="__nav_8_4" id="__nav_8_4_label" tabindex="">
-            
-  
-  
-  <span class="md-ellipsis">
-    Agglayer
-    
-  </span>
-  
-
-            <span class="md-nav__icon md-icon"></span>
-          </label>
-        
-        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_8_4_label" aria-expanded="false">
-          <label class="md-nav__title" for="__nav_8_4">
-            <span class="md-nav__icon md-icon"></span>
-            Agglayer
-          </label>
-          <ul class="md-nav__list" data-md-scrollfix>
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../agglayer/overview/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    Overview
-    
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../agglayer/trust/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    Trust
-    
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../agglayer/lbt_vs_let/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    Exit and Balance Trees
-    
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../agglayer/ditl/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    A Day in the Life of an AggLayer Transaction
-    
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../agglayer/pessimistic_proof/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    Pessimistic Proof
-    
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../agglayer/unified_liquidity/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    Unified Liquidity
-    
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-          </ul>
-        </nav>
-      
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    
-    
-      
-        
-      
-    
-    
-    
-      
-      
-        
-          
-          
-        
-      
-    
-    
-    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
-      
-        
-        
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8_5" >
-        
-          
-          <label class="md-nav__link" for="__nav_8_5" id="__nav_8_5_label" tabindex="">
-            
-  
-  
-  <span class="md-ellipsis">
-    CDK
-    
-  </span>
-  
-
-            <span class="md-nav__icon md-icon"></span>
-          </label>
-        
-        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_8_5_label" aria-expanded="false">
-          <label class="md-nav__title" for="__nav_8_5">
-            <span class="md-nav__icon md-icon"></span>
-            CDK
-          </label>
-          <ul class="md-nav__list" data-md-scrollfix>
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../cdk/overview/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    Overview
-    
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-          </ul>
-        </nav>
-      
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    
-    
-      
-        
-      
-        
-      
-        
-      
-    
-    
-    
-      
-      
-        
-          
-          
-        
-      
-    
-    
-    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
-      
-        
-        
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8_6" >
-        
-          
-          <label class="md-nav__link" for="__nav_8_6" id="__nav_8_6_label" tabindex="">
-            
-  
-  
-  <span class="md-ellipsis">
-    Miden
-    
-  </span>
-  
-
-            <span class="md-nav__icon md-icon"></span>
-          </label>
-        
-        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_8_6_label" aria-expanded="false">
-          <label class="md-nav__title" for="__nav_8_6">
-            <span class="md-nav__icon md-icon"></span>
-            Miden
-          </label>
-          <ul class="md-nav__list" data-md-scrollfix>
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../miden/overview/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    Overview
-    
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../miden/note_features/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    Notes and Their Features
-    
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../miden/note_types/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    Note Types
-    
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-          </ul>
-        </nav>
-      
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-    
-  
-  
-  
-    
-    
-      
-        
-      
-        
-      
-    
-    
-    
-      
-      
-        
-          
-          
-        
-      
-    
-    
-    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
-      
-        
-        
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8_7" checked>
-        
-          
-          <label class="md-nav__link" for="__nav_8_7" id="__nav_8_7_label" tabindex="">
-            
-  
-  
-  <span class="md-ellipsis">
-    PoS
-    
-  </span>
-  
-
-            <span class="md-nav__icon md-icon"></span>
-          </label>
-        
-        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_8_7_label" aria-expanded="true">
-          <label class="md-nav__title" for="__nav_8_7">
-            <span class="md-nav__icon md-icon"></span>
-            PoS
-          </label>
-          <ul class="md-nav__list" data-md-scrollfix>
-            
-              
-                
-  
-  
-    
-  
-  
-  
-    <li class="md-nav__item md-nav__item--active">
-      
-      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
-      
-      
-        
-      
-      
-      <a href="./" class="md-nav__link md-nav__link--active">
-        
-  
-  
-  <span class="md-ellipsis">
-    Overview
-    
-  </span>
-  
-
-      </a>
-      
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    
-    
-      
-        
-      
-    
-    
-    
-      
-      
-        
-      
-    
-    
-    <li class="md-nav__item md-nav__item--nested">
-      
-        
-        
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8_7_2" >
-        
-          
-          <label class="md-nav__link" for="__nav_8_7_2" id="__nav_8_7_2_label" tabindex="0">
-            
-  
-  
-  <span class="md-ellipsis">
-    Tutorials
-    
-  </span>
-  
-
-            <span class="md-nav__icon md-icon"></span>
-          </label>
-        
-        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_8_7_2_label" aria-expanded="false">
-          <label class="md-nav__title" for="__nav_8_7_2">
-            <span class="md-nav__icon md-icon"></span>
-            Tutorials
-          </label>
-          <ul class="md-nav__list" data-md-scrollfix>
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../tutorials/milestones/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    Understanding and Implementing Milestones
-    
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-          </ul>
-        </nav>
-      
-    </li>
-  
-
-              
-            
-          </ul>
-        </nav>
-      
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    
-    
-      
-        
-      
-        
-      
-        
-      
-    
-    
-    
-      
-      
-        
-          
-          
-        
-      
-    
-    
-    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
-      
-        
-        
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8_8" >
-        
-          
-          <label class="md-nav__link" for="__nav_8_8" id="__nav_8_8_label" tabindex="">
-            
-  
-  
-  <span class="md-ellipsis">
-    Plonky3
-    
-  </span>
-  
-
-            <span class="md-nav__icon md-icon"></span>
-          </label>
-        
-        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_8_8_label" aria-expanded="false">
-          <label class="md-nav__title" for="__nav_8_8">
-            <span class="md-nav__icon md-icon"></span>
-            Plonky3
-          </label>
-          <ul class="md-nav__list" data-md-scrollfix>
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../plonky3/overview/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    Overview
-    
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../plonky3/examples/fibonacci/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    Introduction to Plonky3 & Fibonacci Example
-    
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../plonky3/examples/rangecheck/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    Constraint Degree, Intermediate Variables & Range Check Example
-    
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-          </ul>
-        </nav>
-      
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    
-    
-      
-        
-      
-    
-    
-    
-      
-      
-        
-          
-          
-        
-      
-    
-    
-    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
-      
-        
-        
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8_9" >
-        
-          
-          <label class="md-nav__link" for="__nav_8_9" id="__nav_8_9_label" tabindex="">
-            
-  
-  
-  <span class="md-ellipsis">
-    zkEVM
-    
-  </span>
-  
-
-            <span class="md-nav__icon md-icon"></span>
-          </label>
-        
-        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_8_9_label" aria-expanded="false">
-          <label class="md-nav__title" for="__nav_8_9">
-            <span class="md-nav__icon md-icon"></span>
-            zkEVM
-          </label>
-          <ul class="md-nav__list" data-md-scrollfix>
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../zkevm/overview/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    Overview
     
   </span>
   
@@ -11121,6 +10214,233 @@
     
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#what-is-vault-bridge" class="md-nav__link">
+    <span class="md-ellipsis">
+      What is Vault Bridge?
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="What is Vault Bridge?">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#how-does-vault-bridge-differ-from-other-yield-protocols" class="md-nav__link">
+    <span class="md-ellipsis">
+      How does Vault Bridge differ from other yield protocols?
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#which-chains-support-vault-bridge" class="md-nav__link">
+    <span class="md-ellipsis">
+      Which chains support Vault Bridge?
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#what-assets-are-supported" class="md-nav__link">
+    <span class="md-ellipsis">
+      What assets are supported?
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#technical-questions" class="md-nav__link">
+    <span class="md-ellipsis">
+      Technical Questions
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Technical Questions">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#how-are-vbtokens-different-from-regular-tokens" class="md-nav__link">
+    <span class="md-ellipsis">
+      How are vbTokens different from regular tokens?
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#how-does-the-migration-manager-work" class="md-nav__link">
+    <span class="md-ellipsis">
+      How does the Migration Manager work?
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#what-are-the-security-considerations" class="md-nav__link">
+    <span class="md-ellipsis">
+      What are the security considerations?
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#how-is-yield-calculated-and-distributed" class="md-nav__link">
+    <span class="md-ellipsis">
+      How is yield calculated and distributed?
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#business-questions" class="md-nav__link">
+    <span class="md-ellipsis">
+      Business Questions
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Business Questions">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#what-are-the-revenue-expectations" class="md-nav__link">
+    <span class="md-ellipsis">
+      What are the revenue expectations?
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#how-do-i-participate-in-revenue-sharing" class="md-nav__link">
+    <span class="md-ellipsis">
+      How do I participate in revenue sharing?
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#integration-questions" class="md-nav__link">
+    <span class="md-ellipsis">
+      Integration Questions
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Integration Questions">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#how-do-i-integrate-vault-bridge-into-my-defi-protocol" class="md-nav__link">
+    <span class="md-ellipsis">
+      How do I integrate Vault Bridge into my DeFi protocol?
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#can-i-use-vault-bridge-with-existing-bridges" class="md-nav__link">
+    <span class="md-ellipsis">
+      Can I use Vault Bridge with existing bridges?
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#what-are-the-gas-costs-for-vault-bridge-operations" class="md-nav__link">
+    <span class="md-ellipsis">
+      What are the gas costs for Vault Bridge operations?
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#how-do-i-handle-slippage-and-mev-protection" class="md-nav__link">
+    <span class="md-ellipsis">
+      How do I handle slippage and MEV protection?
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#future-roadmap" class="md-nav__link">
+    <span class="md-ellipsis">
+      Future Roadmap
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Future Roadmap">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#upcoming-features" class="md-nav__link">
+    <span class="md-ellipsis">
+      Upcoming Features
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#timeline-expectations" class="md-nav__link">
+    <span class="md-ellipsis">
+      Timeline Expectations
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#research-and-development" class="md-nav__link">
+    <span class="md-ellipsis">
+      Research and Development
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -11135,7 +10455,7 @@
 
 
   
-    <a href="https://github.com/0xPolygon/devrel-docs/edit/main/docs/pos/overview.md" title="Edit this page" class="md-content__button md-icon" rel="edit">
+    <a href="https://github.com/0xPolygon/polygon-docs/edit/main/docs/vault-bridge/nutshell.md" title="Edit this page" class="md-content__button md-icon" rel="edit">
       
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 20H6V4h7v5h5v3.1l2-2V8l-6-6H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h4zm10.2-7c.1 0 .3.1.4.2l1.3 1.3c.2.2.2.6 0 .8l-1 1-2.1-2.1 1-1c.1-.1.2-.2.4-.2m0 3.9L14.1 23H12v-2.1l6.1-6.1z"/></svg>
     </a>
@@ -11143,25 +10463,248 @@
   
 
 
-<h1 id="polygon-pos-overview">Polygon PoS Overview<a class="headerlink" href="#polygon-pos-overview" title="Link to this section">&para;</a></h1>
-<p>Polygon PoS (Proof-of-Stake) is a blockchain network that operates as a
-sidechain, a Layer 2 scaling solution for Ethereum. It aims to provide faster
-and cheaper transactions while leveraging the security of the Ethereum mainnet.</p>
-<p>The technical details about Polygon PoS are available in the
-<a href="https://docs.polygon.technology/pos/">official documentation</a>.</p>
-<blockquote>
-<p>Originally launched as Matic Network in June 2020, Polygon PoS has undergone
-numerous upgrades since its inception. Initially designed to scale Ethereum
-through a sidechain, a
-<a href="https://forum.polygon.technology/t/pip-42-polygon-2-0-upgrade-pos-staking-to-use-pol/17683">new proposal on the Polygon forum</a>
-suggests upgrading Polygon PoS into a zero-knowledge (ZK)-based validium on
-Ethereum. Polygon PoS will soon adopt the execution environment of Polygon
-zkEVM along with a dedicated data availability layer. This new architecture
-would be inherently interoperable with a broader network of ZK-powered
-Ethereum L2s via the <a href="../../agglayer/overview/">AggLayer</a>. Polygon PoS will
-continue to be the foundational infrastructure for a wide array of
-decentralized applications and services.</p>
-</blockquote>
+<h1 id="vault-bridge-overview">Vault Bridge overview<a class="headerlink" href="#vault-bridge-overview" title="Link to this section">&para;</a></h1>
+<h2 id="what-is-vault-bridge">What is Vault Bridge?<a class="headerlink" href="#what-is-vault-bridge" title="Link to this section">&para;</a></h2>
+<p>Vault Bridge is a protocol that enables chains and applications to generate native yield on Total Value Locked (TVL) by putting bridged assets to work. It transforms idle bridged assets into productive capital, generating sustainable revenue for Layer 2 networks without requiring new infrastructure or changes to existing canonical bridges.</p>
+<h3 id="how-does-vault-bridge-differ-from-other-yield-protocols">How does Vault Bridge differ from other yield protocols?<a class="headerlink" href="#how-does-vault-bridge-differ-from-other-yield-protocols" title="Link to this section">&para;</a></h3>
+<p>Vault Bridge is unique in several ways:</p>
+<ul>
+<li><strong>Cross-chain native</strong>: Designed specifically for multi-chain environments</li>
+<li><strong>Bridge-integrated</strong>: Works seamlessly with existing bridge infrastructure</li>
+<li><strong>Revenue sharing</strong>: Provides direct revenue streams to participating chains</li>
+<li><strong>No infrastructure changes</strong>: Requires no modifications to existing bridges</li>
+<li><strong>ERC-4626 compatible</strong>: Uses standard vault interfaces for easy integration</li>
+</ul>
+<h3 id="which-chains-support-vault-bridge">Which chains support Vault Bridge?<a class="headerlink" href="#which-chains-support-vault-bridge" title="Link to this section">&para;</a></h3>
+<p><strong>Agglayer-connected chains</strong> receive full support with no fees:</p>
+<ul>
+<li>All CDK chains connected to Agglayer</li>
+<li>Full Native Converter functionality</li>
+<li>100% revenue sharing</li>
+</ul>
+<p><strong>Non-Agglayer chains</strong> have limited support:</p>
+<ul>
+<li>Third-party bridge integration required</li>
+<li>Revenue sharing fees apply</li>
+<li>Limited Native Converter functionality</li>
+<li>Contact team for full support roadmap</li>
+</ul>
+<h3 id="what-assets-are-supported">What assets are supported?<a class="headerlink" href="#what-assets-are-supported" title="Link to this section">&para;</a></h3>
+<p>Currently supported assets include:</p>
+<ul>
+<li><strong>WETH</strong>: Wrapped Ethereum</li>
+<li><strong>USDC</strong>: USD Coin</li>
+<li><strong>WBTC</strong>: Wrapped Bitcoin</li>
+</ul>
+<p>Additional assets are being evaluated based on:</p>
+<ul>
+<li>Market demand</li>
+<li>Available yield strategies</li>
+<li>Liquidity requirements</li>
+<li>Risk assessment</li>
+</ul>
+<h2 id="technical-questions">Technical Questions<a class="headerlink" href="#technical-questions" title="Link to this section">&para;</a></h2>
+<h3 id="how-are-vbtokens-different-from-regular-tokens">How are vbTokens different from regular tokens?<a class="headerlink" href="#how-are-vbtokens-different-from-regular-tokens" title="Link to this section">&para;</a></h3>
+<p>vbTokens (Vault Bridge Tokens) are:</p>
+<ul>
+<li><strong>1:1 backed</strong>: Always redeemable for underlying assets</li>
+<li><strong>Yield-generating</strong>: Underlying assets generate yield for the protocol</li>
+<li><strong>Cross-chain compatible</strong>: Can be bridged and used across multiple chains</li>
+<li><strong>ERC-4626 compliant</strong>: Follow standard vault token interfaces</li>
+<li><strong>Non-appreciating for users</strong>: Users don&rsquo;t directly receive yield - it goes to chains/apps</li>
+</ul>
+<h3 id="how-does-the-migration-manager-work">How does the Migration Manager work?<a class="headerlink" href="#how-does-the-migration-manager-work" title="Link to this section">&para;</a></h3>
+<p>The Migration Manager coordinates asset movement from Layer 2 to Layer 1:</p>
+<ol>
+<li><strong>Accumulation</strong>: Native Converters accumulate backing assets on Layer 2</li>
+<li><strong>Threshold trigger</strong>: Migration triggers when threshold is reached</li>
+<li><strong>Cross-chain message</strong>: Migration request sent via Agglayer bridge</li>
+<li><strong>Validation</strong>: Migration Manager validates the request and proofs</li>
+<li><strong>Execution</strong>: Assets are deposited into Vault Bridge Token on Layer 1</li>
+<li><strong>Yield deployment</strong>: Assets are placed into yield-generating vaults</li>
+</ol>
+<h3 id="what-are-the-security-considerations">What are the security considerations?<a class="headerlink" href="#what-are-the-security-considerations" title="Link to this section">&para;</a></h3>
+<p><strong>Smart contract risks</strong>:</p>
+<ul>
+<li>Standard DeFi protocol risks apply</li>
+<li>Contracts audited by reputable firms</li>
+<li>Built on proven infrastructure (Morpho, ERC-4626)</li>
+</ul>
+<p><strong>Cross-chain risks</strong>:</p>
+<ul>
+<li>Secured by Agglayer&rsquo;s ZK proof system</li>
+<li>Pessimistic proofs as backup security</li>
+<li>Fraud proof mechanisms available</li>
+</ul>
+<p><strong>Yield strategy risks</strong>:</p>
+<ul>
+<li>Risk managed by Gauntlet and Steakhouse Financial</li>
+<li>Diversified across multiple yield sources</li>
+<li>Emergency exit mechanisms implemented</li>
+</ul>
+<h3 id="how-is-yield-calculated-and-distributed">How is yield calculated and distributed?<a class="headerlink" href="#how-is-yield-calculated-and-distributed" title="Link to this section">&para;</a></h3>
+<p><strong>Yield generation</strong>:</p>
+<ul>
+<li>Assets deposited into ERC-4626 compatible external vaults</li>
+<li>Multiple yield strategies managed by expert curators</li>
+<li>Continuous compounding of generated returns</li>
+</ul>
+<p><strong>Distribution</strong>:</p>
+<ul>
+<li>100% to Agglayer-connected chains</li>
+<li>Subject to fees for non-Agglayer chains</li>
+<li>Configurable distribution within chain ecosystems</li>
+<li>Real-time streaming via smart contracts</li>
+</ul>
+<h2 id="business-questions">Business Questions<a class="headerlink" href="#business-questions" title="Link to this section">&para;</a></h2>
+<h3 id="what-are-the-revenue-expectations">What are the revenue expectations?<a class="headerlink" href="#what-are-the-revenue-expectations" title="Link to this section">&para;</a></h3>
+<p>Revenue depends on several factors:</p>
+<ul>
+<li><strong>Yield rates</strong>: Typically 2-8% APY depending on asset and strategy</li>
+<li><strong>TVL scale</strong>: Larger TVL generates proportionally more revenue</li>
+<li><strong>Market conditions</strong>: Yield rates vary with DeFi market conditions</li>
+<li><strong>Strategy diversification</strong>: Multiple strategies reduce volatility</li>
+</ul>
+<p><strong>Example calculation</strong>:</p>
+<ul>
+<li>$10M TVL at 4% average yield = $400K annual revenue</li>
+<li>Distribution according to chain&rsquo;s configured parameters</li>
+</ul>
+<h3 id="how-do-i-participate-in-revenue-sharing">How do I participate in revenue sharing?<a class="headerlink" href="#how-do-i-participate-in-revenue-sharing" title="Link to this section">&para;</a></h3>
+<p><strong>Requirements</strong>:</p>
+<ul>
+<li>Deploy Vault Bridge contracts</li>
+<li>Integrate with supported assets</li>
+<li>Configure revenue distribution</li>
+<li>Maintain operational requirements</li>
+</ul>
+<p><strong>Process</strong>:</p>
+<ol>
+<li>Contact team via <a href="https://info.polygon.technology/vaultbridge-intake-form">intake form</a></li>
+<li>Technical integration review</li>
+<li>Risk assessment and approval</li>
+<li>Contract deployment and configuration</li>
+<li>Revenue sharing activation</li>
+</ol>
+<h2 id="integration-questions">Integration Questions<a class="headerlink" href="#integration-questions" title="Link to this section">&para;</a></h2>
+<h3 id="how-do-i-integrate-vault-bridge-into-my-defi-protocol">How do I integrate Vault Bridge into my DeFi protocol?<a class="headerlink" href="#how-do-i-integrate-vault-bridge-into-my-defi-protocol" title="Link to this section">&para;</a></h3>
+<p>Basic integration steps:</p>
+<ol>
+<li><strong>Install dependencies</strong>: Add Vault Bridge contracts to your project</li>
+<li><strong>Implement interfaces</strong>: Use standard ERC-4626 interfaces</li>
+<li><strong>Handle vbTokens</strong>: Treat vbTokens as interest-bearing assets</li>
+<li><strong>Add bridge support</strong>: Integrate cross-chain functionality if needed</li>
+<li><strong>Test thoroughly</strong>: Use comprehensive test suites</li>
+</ol>
+<p>See our <a href="../integration-guide/">Integration Guide</a> for detailed instructions.</p>
+<h3 id="can-i-use-vault-bridge-with-existing-bridges">Can I use Vault Bridge with existing bridges?<a class="headerlink" href="#can-i-use-vault-bridge-with-existing-bridges" title="Link to this section">&para;</a></h3>
+<p><strong>Agglayer bridges</strong>: Full compatibility with no modifications needed</p>
+<p><strong>Third-party bridges</strong>: </p>
+<ul>
+<li>Supported through bridge adapters</li>
+<li>May require custom integration work</li>
+<li>Limited functionality compared to native integration</li>
+<li>Contact team for specific bridge support</li>
+</ul>
+<h3 id="what-are-the-gas-costs-for-vault-bridge-operations">What are the gas costs for Vault Bridge operations?<a class="headerlink" href="#what-are-the-gas-costs-for-vault-bridge-operations" title="Link to this section">&para;</a></h3>
+<p><strong>Layer 1 operations</strong> (Ethereum):</p>
+<ul>
+<li>Deposit: ~150,000 gas</li>
+<li>Withdraw: ~120,000 gas</li>
+<li>Cross-chain bridge: ~200,000 gas</li>
+</ul>
+<p><strong>Layer 2 operations</strong>:</p>
+<ul>
+<li>Native conversion: ~80,000 gas</li>
+<li>Deconversion: ~90,000 gas</li>
+<li>Bridge operations: ~140,000 gas</li>
+</ul>
+<p>Gas costs vary based on network congestion and specific operations.</p>
+<h3 id="how-do-i-handle-slippage-and-mev-protection">How do I handle slippage and MEV protection?<a class="headerlink" href="#how-do-i-handle-slippage-and-mev-protection" title="Link to this section">&para;</a></h3>
+<p><strong>Built-in protections</strong>:</p>
+<ul>
+<li>Maximum 1% slippage tolerance</li>
+<li>Price impact thresholds</li>
+<li>Rate limiting mechanisms</li>
+<li>Emergency circuit breakers</li>
+</ul>
+<p><strong>Additional recommendations</strong>:</p>
+<ul>
+<li>Use preview functions to estimate outputs</li>
+<li>Implement deadline parameters</li>
+<li>Consider flashloan MEV protection</li>
+<li>Monitor for unusual activity</li>
+</ul>
+<h2 id="future-roadmap">Future Roadmap<a class="headerlink" href="#future-roadmap" title="Link to this section">&para;</a></h2>
+<h3 id="upcoming-features">Upcoming Features<a class="headerlink" href="#upcoming-features" title="Link to this section">&para;</a></h3>
+<p><strong>Enhanced Cross-Chain Support</strong>:</p>
+<ul>
+<li>Support for non-EVM chains (Solana, Cosmos, Move)</li>
+<li>Additional third-party bridge integrations</li>
+<li>Improved cross-chain user experience</li>
+<li>Universal bridge adapters</li>
+</ul>
+<p><strong>Advanced Yield Strategies</strong>:</p>
+<ul>
+<li>Liquid staking integrations</li>
+<li>Real-world asset (RWA) strategies</li>
+<li>Advanced DeFi composability</li>
+<li>Automated strategy optimization</li>
+</ul>
+<p><strong>Governance and DAO Features</strong>:</p>
+<ul>
+<li>Decentralized strategy selection</li>
+<li>Community-driven parameter updates</li>
+<li>Yield strategy governance tokens</li>
+<li>Revenue sharing governance</li>
+</ul>
+<p><strong>Developer Tools</strong>:</p>
+<ul>
+<li>Enhanced SDK and tooling</li>
+<li>Integration testing frameworks</li>
+<li>Monitoring and analytics dashboards</li>
+<li>Automated deployment tools</li>
+</ul>
+<h3 id="timeline-expectations">Timeline Expectations<a class="headerlink" href="#timeline-expectations" title="Link to this section">&para;</a></h3>
+<p><strong>Q1 2025</strong>:</p>
+<ul>
+<li>Enhanced documentation and examples</li>
+<li>Additional yield strategy integrations</li>
+<li>Improved monitoring and alerting</li>
+</ul>
+<p><strong>Q2 2025</strong>:</p>
+<ul>
+<li>Non-EVM chain support (Solana, Cosmos)</li>
+<li>Advanced governance features</li>
+<li>Enhanced developer tooling</li>
+</ul>
+<p><strong>Q3 2025</strong>:</p>
+<ul>
+<li>Additional asset support</li>
+<li>Advanced yield optimization</li>
+<li>Enterprise features expansion</li>
+</ul>
+<p><strong>Q4 2025</strong>:</p>
+<ul>
+<li>Full decentralization milestones</li>
+<li>Advanced DeFi composability</li>
+<li>Global ecosystem expansion</li>
+</ul>
+<h3 id="research-and-development">Research and Development<a class="headerlink" href="#research-and-development" title="Link to this section">&para;</a></h3>
+<p><strong>Active research areas</strong>:</p>
+<ul>
+<li>Zero-knowledge proof optimizations</li>
+<li>MEV protection mechanisms</li>
+<li>Cross-chain liquidation systems</li>
+<li>Automated risk management</li>
+</ul>
+<p><strong>Experimental features</strong>:</p>
+<ul>
+<li>Dynamic yield strategy allocation</li>
+<li>Prediction market integrations</li>
+<li>Insurance protocol partnerships</li>
+<li>Institutional custody solutions</li>
+</ul>
 
 
 
@@ -11199,7 +10742,7 @@ decentralized applications and services.</p>
       <nav class="md-footer__inner md-grid" aria-label="Footer" >
         
           
-          <a href="../../miden/note_types/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Note Types">
+          <a href="../../pos/concepts/transactions/meta-transactions/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Meta transactions">
             <div class="md-footer__button md-icon">
               
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
@@ -11209,20 +10752,20 @@ decentralized applications and services.</p>
                 Previous
               </span>
               <div class="md-ellipsis">
-                Note Types
+                Meta transactions
               </div>
             </div>
           </a>
         
         
           
-          <a href="../tutorials/milestones/" class="md-footer__link md-footer__link--next" aria-label="Next: Understanding and Implementing Milestones">
+          <a href="../getting-started/" class="md-footer__link md-footer__link--next" aria-label="Next: Getting Started">
             <div class="md-footer__title">
               <span class="md-footer__direction">
                 Next
               </span>
               <div class="md-ellipsis">
-                Understanding and Implementing Milestones
+                Getting Started
               </div>
             </div>
             <div class="md-footer__button md-icon">
@@ -11369,13 +10912,13 @@ decentralized applications and services.</p>
     
     
       
-      <script id="__config" type="application/json">{"base": "../../..", "features": ["search.suggest", "search.highlight", "search.share", "navigation.tracking", "navigation.integration", "navigation.tabs", "navigation.tabs.sticky", "navigation.indexes", "navigation.sections", "navigation.path", "navigation.top", "navigation.footer", "toc.follow", "content.code.copy", "content.action.edit"], "search": "../../../assets/javascripts/workers/search.d50fe291.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+      <script id="__config" type="application/json">{"base": "../..", "features": ["search.suggest", "search.highlight", "search.share", "navigation.tracking", "navigation.integration", "navigation.tabs", "navigation.tabs.sticky", "navigation.indexes", "navigation.sections", "navigation.path", "navigation.top", "navigation.footer", "toc.follow", "content.code.copy", "content.action.edit"], "search": "../../assets/javascripts/workers/search.d50fe291.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
     
     
   
-      <script src="../../../assets/javascripts/bundle.56ea9cef.min.js"></script>
+      <script src="../../assets/javascripts/bundle.56ea9cef.min.js"></script>
       
-        <script src="../../../_site_essentials/js/mathjax.js"></script>
+        <script src="../../_site_essentials/js/mathjax.js"></script>
       
         <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?version=4.8.0"></script>
       
@@ -11385,7 +10928,7 @@ decentralized applications and services.</p>
       
         <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/contrib/auto-render.min.js"></script>
       
-        <script src="../../../js/open_in_new_tab.js"></script>
+        <script src="../../js/open_in_new_tab.js"></script>
       
     
   
